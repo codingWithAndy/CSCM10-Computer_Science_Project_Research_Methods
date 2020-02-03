@@ -8,14 +8,11 @@
 \contentsline {subsection}{\numberline {1.1.1}Objective}{1}{subsection.1.1.1}% 
 \contentsline {section}{\numberline {1.2}Overview}{2}{section.1.2}% 
 \contentsline {chapter}{\chapternumberline {2}Background into Gamification}{3}{chapter.2}% 
-\contentsline {section}{\numberline {2.1}Tunnel your internet connection via the university internet}{3}{section.2.1}% 
-\contentsline {section}{\numberline {2.2}Practice your Google Fu}{4}{section.2.2}% 
-\contentsline {section}{\numberline {2.3}Organizing your citations in BibTeX}{4}{section.2.3}% 
-\contentsline {section}{\numberline {2.4}Properly using and formatting citations within the text}{5}{section.2.4}% 
-\contentsline {chapter}{\chapternumberline {3}Conclusions and Future Work}{7}{chapter.3}% 
-\contentsline {section}{\numberline {3.1}Contributions}{7}{section.3.1}% 
-\contentsline {section}{\numberline {3.2}Future Work}{7}{section.3.2}% 
-\contentsline {chapter}{Bibliography}{9}{chapter*.5}% 
-\contentsline {chapter}{Appendices}{9}{section*.6}% 
-\contentsline {appendix}{\chapternumberline {A}Implementation of a Relevant Algorithm}{11}{appendix.A}% 
-\contentsline {appendix}{\chapternumberline {B}Supplementary Data}{13}{appendix.B}% 
+\contentsline {section}{\numberline {2.1}History of Gamification}{3}{section.2.1}% 
+\contentsline {section}{\numberline {2.2}The Science of Gamification}{4}{section.2.2}% 
+\contentsline {section}{\numberline {2.3}Gamification in Science}{6}{section.2.3}% 
+\contentsline {section}{\numberline {2.4}Gamification in Education}{7}{section.2.4}% 
+\contentsline {chapter}{\chapternumberline {3}Conclusions and Future Work}{9}{chapter.3}% 
+\contentsline {section}{\numberline {3.1}Contributions}{9}{section.3.1}% 
+\contentsline {section}{\numberline {3.2}Future Work}{9}{section.3.2}% 
+\contentsline {chapter}{Bibliography}{11}{chapter*.5}% 
