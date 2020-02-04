@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.20 (TeX Live 2019) (preloaded format=pdflatex 2019.12.5)  4 FEB 2020 18:59
+This is pdfTeX, Version 3.14159265-2.6-1.40.20 (TeX Live 2019) (preloaded format=pdflatex 2019.10.22)  4 FEB 2020 21:00
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -2124,21 +2124,28 @@ Underfull \vbox (badness 2818) has occurred while \output is active []
 [4]
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
- [5]
-
-LaTeX Warning: Reference `sec:typesetting_figures_citation' on page 6 undefined
- on input line 52.
-
-) (./chapter/report_summary.tex [6]) (./CSCM10 - Report.bbl [7
+ [5])
+(./chapter/report_summary.tex [6]) (./CSCM10 - Report.bbl [7
 
 ] [8
 
 ]
 bibitemlist
 
-Underfull \hbox (badness 1005) in paragraph at lines 26--30
-\T1/ptm/m/n/10.95 ti-fi-cial in-tel-li-gence. [On-line]. Avail-able: []$https :
- / / medium . com / hackernoon /
+Underfull \hbox (badness 1215) in paragraph at lines 26--30
+[]\T1/ptm/m/n/10.95 S. Mar-tin. (2019) Top in-dus-tries get-ting rev-o-lu-tioni
+sed by ar-
+ []
+
+
+Underfull \hbox (badness 1881) in paragraph at lines 76--80
+[]\T1/ptm/m/n/10.95 R. Swat-man. (2016) Poké-mon go catches five new world
+ []
+
+[9]
+Underfull \hbox (badness 10000) in paragraph at lines 88--92
+\T1/ptm/m/n/10.95 web / 20120425121358 / http : /enterprise-[]gami^^\cation . c
+om / index . php / en / blog / 4-[]blog /
  []
 
 )
@@ -2147,7 +2154,7 @@ Package minitoc Info: I0009
 (minitoc)             Creating the "CSCM10 - Report".maf file.
 \openout4 = `"CSCM10 - Report.maf"'.
 
- [9]
+ [10]
 \tf@toc=\write7
 \openout7 = `"CSCM10 - Report.toc"'.
 
@@ -2158,29 +2165,25 @@ Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 89.
 Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 89.
 Package rerunfilecheck Info: File `"CSCM10 - Report".out' has not changed.
 (rerunfilecheck)             Checksum: 996E4E58896FCED40F6949A032E75FA5;732.
-
-
-LaTeX Warning: There were undefined references.
-
 Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 89.
  ) 
 Here is how much of TeX's memory you used:
- 39842 strings out of 492616
- 709800 string characters out of 6129481
- 825229 words of memory out of 5000000
- 42881 multiletter control sequences out of 15000+600000
+ 39856 strings out of 492616
+ 709932 string characters out of 6129480
+ 825441 words of memory out of 5000000
+ 42887 multiletter control sequences out of 15000+600000
  573929 words of font info for 78 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
- 63i,11n,92p,1915b,424s stack positions out of 5000i,500n,10000p,200000b,80000s
+ 63i,11n,92p,1915b,545s stack positions out of 5000i,500n,10000p,200000b,80000s
 {/usr/local/texlive/2019/texmf-dist/fonts/enc/dvips/base/8r.enc}</usr/local/t
 exlive/2019/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy10.pfb></usr/local/te
 xlive/2019/texmf-dist/fonts/type1/urw/times/utmb8a.pfb></usr/local/texlive/2019
 /texmf-dist/fonts/type1/urw/times/utmr8a.pfb></usr/local/texlive/2019/texmf-dis
 t/fonts/type1/urw/times/utmri8a.pfb>
-Output written on "CSCM10 - Report.pdf" (17 pages, 105343 bytes).
+Output written on "CSCM10 - Report.pdf" (18 pages, 107001 bytes).
 PDF statistics:
- 187 PDF objects out of 1000 (max. 8388607)
- 160 compressed objects within 2 object streams
- 36 named destinations out of 1000 (max. 500000)
+ 226 PDF objects out of 1000 (max. 8388607)
+ 198 compressed objects within 2 object streams
+ 44 named destinations out of 1000 (max. 500000)
  114 words of extra memory for PDF output out of 10000 (max. 10000000)
 
