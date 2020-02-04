@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.20 (TeX Live 2019) (preloaded format=pdflatex 2019.10.22)  3 FEB 2020 20:06
+This is pdfTeX, Version 3.14159265-2.6-1.40.20 (TeX Live 2019) (preloaded format=pdflatex 2019.12.5)  4 FEB 2020 18:59
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -2031,7 +2031,7 @@ Package caption Info: subfig package v1.3 is loaded.
 Package caption Info: End \AtBeginDocument code.
 LaTeX Font Info:    Font shape `T1/ptm/bx/n' in size <20.74> not available
 (Font)              Font shape `T1/ptm/b/n' tried instead on input line 36.
-<graphics/swansea.png, id=63, 416.2752pt x 284.7438pt>
+<graphics/swansea.png, id=55, 416.2752pt x 284.7438pt>
 File: graphics/swansea.png Graphic file (type png)
 <use graphics/swansea.png>
 Package pdftex.def Info: graphics/swansea.png  used on input line 36.
@@ -2104,22 +2104,18 @@ LaTeX Font Info:    Font shape `OT1/ptm/bx/n' in size <6> not available
 (Font)              Font shape `OT1/ptm/b/n' tried instead on input line 2.
 LaTeX Font Info:    Try loading font information for U+stmry on input line 2.
 
-(/usr/local/texlive/2019/texmf-dist/tex/latex/stmaryrd/Ustmry.fd))
-(./list_of_tables_and_figures.tex [5] (./CSCM10 - Report.lot) [6]
-(./CSCM10 - Report.lof)) [7] [8
+(/usr/local/texlive/2019/texmf-dist/tex/latex/stmaryrd/Ustmry.fd)) [5] [6
 
-] (./chapter/report_intro.tex
+]
+(./chapter/report_intro.tex
 LaTeX Font Info:    Font shape `T1/ptm/bx/n' in size <14.4> not available
 (Font)              Font shape `T1/ptm/b/n' tried instead on input line 6.
-LaTeX Font Info:    Font shape `T1/ptm/bx/n' in size <12> not available
-(Font)              Font shape `T1/ptm/b/n' tried instead on input line 11.
-
-Underfull \vbox (badness 10000) has occurred while \output is active []
-
  [1
 
-])
-(./chapter/report_background.tex [2]
+]
+LaTeX Font Info:    Font shape `T1/ptm/bx/n' in size <12> not available
+(Font)              Font shape `T1/ptm/b/n' tried instead on input line 13.
+) (./chapter/report_background.tex [2]
 Underfull \vbox (badness 2818) has occurred while \output is active []
 
  [3
@@ -2129,60 +2125,31 @@ Underfull \vbox (badness 2818) has occurred while \output is active []
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
  [5]
-Package hyperref Info: bookmark level for unknown lstlisting defaults to 0 on i
-nput line 47.
-LaTeX Font Info:    Try loading font information for T1+SourceCodePro-TLF on in
-put line 47.
 
-(/usr/local/texlive/2019/texmf-dist/tex/latex/sourcecodepro/T1SourceCodePro-TLF
-.fd
-File: T1SourceCodePro-TLF.fd 2015/10/08 (autoinst) Font definitions for T1/Sour
-ceCodePro-TLF.
-)
-LaTeX Font Info:    Font shape `T1/SourceCodePro-TLF/m/n' will be
-(Font)              scaled to size 10.95pt on input line 47.
-LaTeX Font Info:    Font shape `T1/SourceCodePro-TLF/m/n' will be
-(Font)              scaled to size 8.0pt on input line 47.
- (./listings/example_bibtex.bib
-LaTeX Font Info:    Try loading font information for TS1+SourceCodePro-TLF on i
-nput line 6.
+LaTeX Warning: Reference `sec:typesetting_figures_citation' on page 6 undefined
+ on input line 52.
 
-(/usr/local/texlive/2019/texmf-dist/tex/latex/sourcecodepro/TS1SourceCodePro-TL
-F.fd
-File: TS1SourceCodePro-TLF.fd 2015/10/08 (autoinst) Font definitions for TS1/So
-urceCodePro-TLF.
-)
-LaTeX Font Info:    Font shape `TS1/SourceCodePro-TLF/m/n' will be
-(Font)              scaled to size 8.0pt on input line 6.
-)
-Underfull \vbox (badness 10000) has occurred while \output is active []
+) (./chapter/report_summary.tex [6]) (./CSCM10 - Report.bbl [7
 
- [6]
-
-LaTeX Warning: Reference `sec:typesetting_figures_citation' on page 7 undefined
- on input line 59.
-
-) (./chapter/report_summary.tex [7] [8
-
-]) (./CSCM10 - Report.bbl [9] [10
+] [8
 
 ]
 bibitemlist
+
+Underfull \hbox (badness 1005) in paragraph at lines 26--30
+\T1/ptm/m/n/10.95 ti-fi-cial in-tel-li-gence. [On-line]. Avail-able: []$https :
+ / / medium . com / hackernoon /
+ []
+
 )
 Package minitoc Info: I0009
 (minitoc)             Listing minitoc auxiliary files. 
 (minitoc)             Creating the "CSCM10 - Report".maf file.
 \openout4 = `"CSCM10 - Report.maf"'.
 
- [11]
+ [9]
 \tf@toc=\write7
 \openout7 = `"CSCM10 - Report.toc"'.
-
-\tf@lot=\write8
-\openout8 = `"CSCM10 - Report.lot"'.
-
-\tf@lof=\write9
-\openout9 = `"CSCM10 - Report.lof"'.
 
 Package atveryend Info: Empty hook `BeforeClearDocument' on input line 89.
 Package atveryend Info: Empty hook `AfterLastShipout' on input line 89.
@@ -2190,7 +2157,7 @@ Package atveryend Info: Empty hook `AfterLastShipout' on input line 89.
 Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 89.
 Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 89.
 Package rerunfilecheck Info: File `"CSCM10 - Report".out' has not changed.
-(rerunfilecheck)             Checksum: 2208C92B4311520EAD4DD8EAE5DCB993;835.
+(rerunfilecheck)             Checksum: 996E4E58896FCED40F6949A032E75FA5;732.
 
 
 LaTeX Warning: There were undefined references.
@@ -2198,25 +2165,22 @@ LaTeX Warning: There were undefined references.
 Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 89.
  ) 
 Here is how much of TeX's memory you used:
- 40268 strings out of 492616
- 716015 string characters out of 6129480
- 868490 words of memory out of 5000000
- 43250 multiletter control sequences out of 15000+600000
- 580885 words of font info for 87 fonts, out of 8000000 for 9000
+ 39842 strings out of 492616
+ 709800 string characters out of 6129481
+ 825229 words of memory out of 5000000
+ 42881 multiletter control sequences out of 15000+600000
+ 573929 words of font info for 78 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
- 63i,11n,92p,1915b,1440s stack positions out of 5000i,500n,10000p,200000b,80000s
-{/usr/local/texlive/2019/texmf-dist/fonts/enc/dvips/sourcecodepro/a_24hhf2.en
-c}{/usr/local/texlive/2019/texmf-dist/fonts/enc/dvips/sourcecodepro/a_ind2fo.en
-c}{/usr/local/texlive/2019/texmf-dist/fonts/enc/dvips/base/8r.enc}</usr/local/t
-exlive/2019/texmf-dist/fonts/type1/adobe/sourcecodepro/SourceCodePro-Regular.pf
-b></usr/local/texlive/2019/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy10.pfb
-></usr/local/texlive/2019/texmf-dist/fonts/type1/urw/times/utmb8a.pfb></usr/loc
-al/texlive/2019/texmf-dist/fonts/type1/urw/times/utmr8a.pfb></usr/local/texlive
-/2019/texmf-dist/fonts/type1/urw/times/utmri8a.pfb>
-Output written on "CSCM10 - Report.pdf" (21 pages, 144808 bytes).
+ 63i,11n,92p,1915b,424s stack positions out of 5000i,500n,10000p,200000b,80000s
+{/usr/local/texlive/2019/texmf-dist/fonts/enc/dvips/base/8r.enc}</usr/local/t
+exlive/2019/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy10.pfb></usr/local/te
+xlive/2019/texmf-dist/fonts/type1/urw/times/utmb8a.pfb></usr/local/texlive/2019
+/texmf-dist/fonts/type1/urw/times/utmr8a.pfb></usr/local/texlive/2019/texmf-dis
+t/fonts/type1/urw/times/utmri8a.pfb>
+Output written on "CSCM10 - Report.pdf" (17 pages, 105343 bytes).
 PDF statistics:
- 252 PDF objects out of 1000 (max. 8388607)
- 218 compressed objects within 3 object streams
- 59 named destinations out of 1000 (max. 500000)
- 130 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 187 PDF objects out of 1000 (max. 8388607)
+ 160 compressed objects within 2 object streams
+ 36 named destinations out of 1000 (max. 500000)
+ 114 words of extra memory for PDF output out of 10000 (max. 10000000)
 

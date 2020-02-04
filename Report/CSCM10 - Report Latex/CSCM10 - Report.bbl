@@ -21,16 +21,18 @@
 \providecommand{\BIBdecl}{\relax}
 \BIBdecl
 
-\bibitem{sizeofinternet}
+\bibitem{hackernoon}
 \BIBentryALTinterwordspacing
-{Internet Live Stats}. (2020). [Online]. Available:
-  \url{https://www.internetlivestats.com}
+{Sophia Martin}. (2019) Top industries getting revolutionised by artificial
+  intelligence. [Online]. Available:
+  \url{https://medium.com/hackernoon/top-industries-getting-revolutionised-by-artificial-intelligence-686a440857c0}
 \BIBentrySTDinterwordspacing
 
-\bibitem{gwern}
+\bibitem{classcraft}
 \BIBentryALTinterwordspacing
-G.~Branwen. (2020) Internet search tips. [Online]. Available:
-  \url{https://www.gwern.net/Search}
+{Sean Arnold}. (2017) 10 important facts about games and learning. [Online].
+  Available:
+  \url{https://www.classcraft.com/blog/features/10-facts-games-learning/}
 \BIBentrySTDinterwordspacing
 
 \bibitem{mendeley}
@@ -45,24 +47,10 @@ J.~T. Kajiya, ``The rendering equation,'' in \emph{Proceedings of the 13th
   SIGGRAPH '86.\hskip 1em plus 0.5em minus 0.4em\relax New York, NY, USA: ACM,
   1986, pp. 143--150.
 
-\bibitem{overleafdocs}
+\bibitem{gwern}
 \BIBentryALTinterwordspacing
-{Overleaf}. (2020) Overleaf documentation. [Online]. Available:
-  \url{https://www.overleaf.com/learn}
+G.~Branwen. (2020) Internet search tips. [Online]. Available:
+  \url{https://www.gwern.net/Search}
 \BIBentrySTDinterwordspacing
-
-\bibitem{texstackexchange}
-\BIBentryALTinterwordspacing
-{Stack Overflow}. (2008) Tex stackexchange. [Online]. Available:
-  \url{https://tex.stackexchange.com}
-\BIBentrySTDinterwordspacing
-
-\bibitem{texnique}
-\BIBentryALTinterwordspacing
-A.~Ravikumar. (2019) Texnique. [Online]. Available: \url{https://texnique.xyz}
-\BIBentrySTDinterwordspacing
-
-\bibitem{whittle15_dragons}
-J.~Whittle. (2015) Path traced glass dragons.
 
 \end{thebibliography}
