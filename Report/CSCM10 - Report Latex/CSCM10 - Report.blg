@@ -13,47 +13,48 @@ Database file #1: citations.bib
 -- See the "IEEEtran_bst_HOWTO.pdf" manual for usage information.
 Warning--empty title in walz15
 Warning--empty booktitle in silv11
+Warning--empty booktitle in 10seriousrules
 
 Done.
-You've used 22 entries,
+You've used 24 entries,
             4087 wiz_defined-function locations,
-            916 strings with 10536 characters,
-and the built_in function-call counts, 8435 in all, are:
-= -- 641
-> -- 109
+            924 strings with 10865 characters,
+and the built_in function-call counts, 9358 in all, are:
+= -- 699
+> -- 138
 < -- 9
-+ -- 56
-- -- 25
-* -- 261
-:= -- 1544
-add.period$ -- 46
-call.type$ -- 22
-change.case$ -- 20
++ -- 70
+- -- 32
+* -- 296
+:= -- 1689
+add.period$ -- 51
+call.type$ -- 24
+change.case$ -- 22
 chr.to.int$ -- 24
-cite$ -- 24
-duplicate$ -- 655
-empty$ -- 840
-format.name$ -- 26
-if$ -- 1856
+cite$ -- 27
+duplicate$ -- 731
+empty$ -- 938
+format.name$ -- 34
+if$ -- 2067
 int.to.chr$ -- 0
-int.to.str$ -- 22
-missing$ -- 160
-newline$ -- 127
-num.names$ -- 22
-pop$ -- 500
+int.to.str$ -- 24
+missing$ -- 179
+newline$ -- 135
+num.names$ -- 24
+pop$ -- 562
 preamble$ -- 1
 purify$ -- 0
 quote$ -- 2
-skip$ -- 664
+skip$ -- 733
 stack$ -- 0
-substring$ -- 58
-swap$ -- 407
+substring$ -- 59
+swap$ -- 450
 text.length$ -- 1
 text.prefix$ -- 0
 top$ -- 5
-type$ -- 22
-warning$ -- 2
-while$ -- 26
-width$ -- 24
-write$ -- 234
-(There were 2 warnings)
+type$ -- 24
+warning$ -- 3
+while$ -- 28
+width$ -- 26
+write$ -- 251
+(There were 3 warnings)

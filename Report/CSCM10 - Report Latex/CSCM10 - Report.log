@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.20 (TeX Live 2019) (preloaded format=pdflatex 2019.10.22)  5 FEB 2020 20:39
+This is pdfTeX, Version 3.14159265-2.6-1.40.20 (TeX Live 2019) (preloaded format=pdflatex 2019.10.22)  6 FEB 2020 22:19
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -2031,7 +2031,7 @@ Package caption Info: subfig package v1.3 is loaded.
 Package caption Info: End \AtBeginDocument code.
 LaTeX Font Info:    Font shape `T1/ptm/bx/n' in size <20.74> not available
 (Font)              Font shape `T1/ptm/b/n' tried instead on input line 36.
-<graphics/swansea.png, id=55, 416.2752pt x 284.7438pt>
+<graphics/swansea.png, id=59, 416.2752pt x 284.7438pt>
 File: graphics/swansea.png Graphic file (type png)
 <use graphics/swansea.png>
 Package pdftex.def Info: graphics/swansea.png  used on input line 36.
@@ -2109,25 +2109,30 @@ LaTeX Font Info:    Try loading font information for U+stmry on input line 2.
 ]
 (./chapter/report_intro.tex
 LaTeX Font Info:    Font shape `T1/ptm/bx/n' in size <14.4> not available
-(Font)              Font shape `T1/ptm/b/n' tried instead on input line 6.
+(Font)              Font shape `T1/ptm/b/n' tried instead on input line 7.
  [1
 
 ]
 LaTeX Font Info:    Font shape `T1/ptm/bx/n' in size <12> not available
-(Font)              Font shape `T1/ptm/b/n' tried instead on input line 13.
-) (./chapter/report_background.tex [2]
-Underfull \vbox (badness 2818) has occurred while \output is active []
-
- [3
+(Font)              Font shape `T1/ptm/b/n' tried instead on input line 22.
+ [2]) (./chapter/report_background.tex [3]
+[4
 
 ]
-[4]
-Underfull \vbox (badness 10000) has occurred while \output is active []
+Underfull \vbox (badness 2818) has occurred while \output is active []
 
  [5]
-[6]) (./chapter/report_summary.tex [7] [8
+[6]
+Underfull \vbox (badness 10000) has occurred while \output is active []
 
-]) (./CSCM10 - Report.bbl [9] [10
+ [7]
+[8]
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [9])
+(./chapter/report_summary.tex [10]) (./CSCM10 - Report.bbl [11
+
+] [12
 
 ]
 bibitemlist
@@ -2142,32 +2147,32 @@ Underfull \hbox (badness 1881) in paragraph at lines 76--80
 []\T1/ptm/m/n/10.95 R. Swat-man. (2016) Poké-mon go catches five new world
  []
 
-[11]
+[13]
 Underfull \hbox (badness 10000) in paragraph at lines 88--92
 \T1/ptm/m/n/10.95 web / 20120425121358 / http : /enterprise-[]gami^^\cation . c
 om / index . php / en / blog / 4-[]blog /
  []
 
 
-Underfull \hbox (badness 1107) in paragraph at lines 147--152
+Underfull \hbox (badness 1107) in paragraph at lines 159--164
 []\T1/ptm/m/n/10.95 ------. (2012) Us-ing gam-i-fi-ca-tion to aid in ado-les-ce
 nt de-vel-op-
  []
 
 
-Overfull \hbox (174.94147pt too wide) in paragraph at lines 147--152
+Overfull \hbox (174.94147pt too wide) in paragraph at lines 159--164
 \T1/ptm/m/n/10.95 using-[]gami^^\cation-[]to-[]aid-[]in-[]adolescent-[]developm
 ent-[]in-[]the-[]classroom-[]cognitive-[]and-[]physical-[]processes-[]can-[]enh
 ance-[]growth/$[] 
  []
 
-[12])
+[14])
 Package minitoc Info: I0009
 (minitoc)             Listing minitoc auxiliary files. 
 (minitoc)             Creating the "CSCM10 - Report".maf file.
 \openout4 = `"CSCM10 - Report.maf"'.
 
- [13]
+ [15]
 \tf@toc=\write7
 \openout7 = `"CSCM10 - Report.toc"'.
 
@@ -2177,26 +2182,25 @@ Package atveryend Info: Empty hook `AfterLastShipout' on input line 89.
 Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 89.
 Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 89.
 Package rerunfilecheck Info: File `"CSCM10 - Report".out' has not changed.
-(rerunfilecheck)             Checksum: 996E4E58896FCED40F6949A032E75FA5;732.
+(rerunfilecheck)             Checksum: D1E3E528BB57901EDFE3EC275C33085D;798.
 Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 89.
  ) 
 Here is how much of TeX's memory you used:
- 39879 strings out of 492616
- 710231 string characters out of 6129480
- 827775 words of memory out of 5000000
- 42897 multiletter control sequences out of 15000+600000
- 573929 words of font info for 78 fonts, out of 8000000 for 9000
+ 39896 strings out of 492616
+ 710416 string characters out of 6129480
+ 827919 words of memory out of 5000000
+ 42902 multiletter control sequences out of 15000+600000
+ 573177 words of font info for 75 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
- 63i,11n,92p,2297b,545s stack positions out of 5000i,500n,10000p,200000b,80000s
+ 63i,11n,92p,2297b,547s stack positions out of 5000i,500n,10000p,200000b,80000s
 {/usr/local/texlive/2019/texmf-dist/fonts/enc/dvips/base/8r.enc}</usr/local/t
-exlive/2019/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy10.pfb></usr/local/te
-xlive/2019/texmf-dist/fonts/type1/urw/times/utmb8a.pfb></usr/local/texlive/2019
-/texmf-dist/fonts/type1/urw/times/utmr8a.pfb></usr/local/texlive/2019/texmf-dis
-t/fonts/type1/urw/times/utmri8a.pfb>
-Output written on "CSCM10 - Report.pdf" (21 pages, 114146 bytes).
+exlive/2019/texmf-dist/fonts/type1/urw/times/utmb8a.pfb></usr/local/texlive/201
+9/texmf-dist/fonts/type1/urw/times/utmr8a.pfb></usr/local/texlive/2019/texmf-di
+st/fonts/type1/urw/times/utmri8a.pfb>
+Output written on "CSCM10 - Report.pdf" (23 pages, 110628 bytes).
 PDF statistics:
- 283 PDF objects out of 1000 (max. 8388607)
- 251 compressed objects within 3 object streams
- 57 named destinations out of 1000 (max. 500000)
- 114 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 311 PDF objects out of 1000 (max. 8388607)
+ 278 compressed objects within 3 object streams
+ 72 named destinations out of 1000 (max. 500000)
+ 122 words of extra memory for PDF output out of 10000 (max. 10000000)
 
