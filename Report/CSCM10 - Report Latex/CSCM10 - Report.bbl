@@ -79,8 +79,8 @@ R.~Swatman. (2016) Pokémon go catches five new world records. [Online].
 \BIBentrySTDinterwordspacing
 
 \bibitem{silv11}
-R.~Silverman, ``"latest game theory: Mixing work and play — companies adopt
-  gaming techniques to motivate employees".''\hskip 1em plus 0.5em minus
+R.~Silverman, ``Latest game theory: Mixing work and play — companies adopt
+  gaming techniques to motivate employees.''\hskip 1em plus 0.5em minus
   0.4em\relax Wallstreet Journal, 2011.
 
 \bibitem{gamelaw}
@@ -94,6 +94,74 @@ M.~Herger. (2012) Gamification and law or how to stay out of prison despite
 \BIBentryALTinterwordspacing
 {Wikipedia}. (2020) Data aggregation. [Online]. Available:
   \url{https://en.wikipedia.org/wiki/Data_aggregation}
+\BIBentrySTDinterwordspacing
+
+\bibitem{gamescience}
+\BIBentryALTinterwordspacing
+{Wranx}. (2014) The science behind gamification and why it works. [Online].
+  Available:
+  \url{https://blog.wranx.com/the-science-behind-gamification-and-why-it-works}
+\BIBentrySTDinterwordspacing
+
+\bibitem{sciencebehind}
+\BIBentryALTinterwordspacing
+J.~Coppola. (2017) The science behind gamification: Why it works. [Online].
+  Available:
+  \url{https://wistia.com/learn/marketing/the-science-behind-gamification}
+\BIBentrySTDinterwordspacing
+
+\bibitem{dopamine}
+\BIBentryALTinterwordspacing
+{Web MD}. (2020) What is dopamine? [Online]. Available:
+  \url{https://www.webmd.com/mental-health/what-is-dopamine#1}
+\BIBentrySTDinterwordspacing
+
+\bibitem{brainrewards}
+\BIBentryALTinterwordspacing
+{Neuroscience Department Laboratories}. (2020) Brain reward pathways. [Online].
+  Available:
+  \url{https://neuroscience.mssm.edu/nestler/brainRewardpathways.html}
+\BIBentrySTDinterwordspacing
+
+\bibitem{keepmotivation}
+\BIBentryALTinterwordspacing
+D.~Yuhas. (2012) Three critical elements sustain motivation. [Online].
+  Available:
+  \url{https://www.scientificamerican.com/article/three-critical-elements-sustain-motivation/}
+\BIBentrySTDinterwordspacing
+
+\bibitem{gamelearning}
+\BIBentryALTinterwordspacing
+{Wikipedia}. (2020) Gamification of learning. [Online]. Available:
+  \url{https://en.wikipedia.org/wiki/Gamification_of_learning}
+\BIBentrySTDinterwordspacing
+
+\bibitem{5benefits}
+\BIBentryALTinterwordspacing
+A.~Deese. (2020) 5 benefits of gamification. [Online]. Available:
+  \url{https://ssec.si.edu/stemvisions-blog/5-benefits-gamification}
+\BIBentrySTDinterwordspacing
+
+\bibitem{eduengage}
+\BIBentryALTinterwordspacing
+------. (2012) Using gamification to aid in adolescent development in the
+  classroom: Cognitive and physical processes can enhance growth. [Online].
+  Available:
+  \url{http://www.ashleydeese.com/2012/09/26/using-gamification-to-aid-in-adolescent-development-in-the-classroom-cognitive-and-physical-processes-can-enhance-growth/}
+\BIBentrySTDinterwordspacing
+
+\bibitem{autismedu}
+A.~Blum-Dimaya, S.~A. Reeve, K.~F. Reeve, and H.~Hoch, ``Teaching children with
+  autism to play a video game using activity schedules and game-embedded
+  simultaneous video modeling,'' in \emph{Education and Treatment of
+  Children}.\hskip 1em plus 0.5em minus 0.4em\relax West Virginia University
+  Press, 2010, pp. 351--370.
+
+\bibitem{simfact}
+\BIBentryALTinterwordspacing
+M.~Doyle. (2014) Learning with simcity: Valuable lessons kids can learn playing
+  mayor. [Online]. Available:
+  \url{https://www.brightpips.com/learning-simcity-valuable-lessons-kids-learn-playing-mayor/}
 \BIBentrySTDinterwordspacing
 
 \end{thebibliography}

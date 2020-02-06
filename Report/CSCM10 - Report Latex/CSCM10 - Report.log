@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.20 (TeX Live 2019) (preloaded format=pdflatex 2019.10.22)  4 FEB 2020 21:00
+This is pdfTeX, Version 3.14159265-2.6-1.40.20 (TeX Live 2019) (preloaded format=pdflatex 2019.10.22)  5 FEB 2020 20:39
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -2124,10 +2124,10 @@ Underfull \vbox (badness 2818) has occurred while \output is active []
 [4]
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
- [5])
-(./chapter/report_summary.tex [6]) (./CSCM10 - Report.bbl [7
+ [5]
+[6]) (./chapter/report_summary.tex [7] [8
 
-] [8
+]) (./CSCM10 - Report.bbl [9] [10
 
 ]
 bibitemlist
@@ -2142,19 +2142,32 @@ Underfull \hbox (badness 1881) in paragraph at lines 76--80
 []\T1/ptm/m/n/10.95 R. Swat-man. (2016) Poké-mon go catches five new world
  []
 
-[9]
+[11]
 Underfull \hbox (badness 10000) in paragraph at lines 88--92
 \T1/ptm/m/n/10.95 web / 20120425121358 / http : /enterprise-[]gami^^\cation . c
 om / index . php / en / blog / 4-[]blog /
  []
 
-)
+
+Underfull \hbox (badness 1107) in paragraph at lines 147--152
+[]\T1/ptm/m/n/10.95 ------. (2012) Us-ing gam-i-fi-ca-tion to aid in ado-les-ce
+nt de-vel-op-
+ []
+
+
+Overfull \hbox (174.94147pt too wide) in paragraph at lines 147--152
+\T1/ptm/m/n/10.95 using-[]gami^^\cation-[]to-[]aid-[]in-[]adolescent-[]developm
+ent-[]in-[]the-[]classroom-[]cognitive-[]and-[]physical-[]processes-[]can-[]enh
+ance-[]growth/$[] 
+ []
+
+[12])
 Package minitoc Info: I0009
 (minitoc)             Listing minitoc auxiliary files. 
 (minitoc)             Creating the "CSCM10 - Report".maf file.
 \openout4 = `"CSCM10 - Report.maf"'.
 
- [10]
+ [13]
 \tf@toc=\write7
 \openout7 = `"CSCM10 - Report.toc"'.
 
@@ -2168,22 +2181,22 @@ Package rerunfilecheck Info: File `"CSCM10 - Report".out' has not changed.
 Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 89.
  ) 
 Here is how much of TeX's memory you used:
- 39856 strings out of 492616
- 709932 string characters out of 6129480
- 825441 words of memory out of 5000000
- 42887 multiletter control sequences out of 15000+600000
+ 39879 strings out of 492616
+ 710231 string characters out of 6129480
+ 827775 words of memory out of 5000000
+ 42897 multiletter control sequences out of 15000+600000
  573929 words of font info for 78 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
- 63i,11n,92p,1915b,545s stack positions out of 5000i,500n,10000p,200000b,80000s
+ 63i,11n,92p,2297b,545s stack positions out of 5000i,500n,10000p,200000b,80000s
 {/usr/local/texlive/2019/texmf-dist/fonts/enc/dvips/base/8r.enc}</usr/local/t
 exlive/2019/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy10.pfb></usr/local/te
 xlive/2019/texmf-dist/fonts/type1/urw/times/utmb8a.pfb></usr/local/texlive/2019
 /texmf-dist/fonts/type1/urw/times/utmr8a.pfb></usr/local/texlive/2019/texmf-dis
 t/fonts/type1/urw/times/utmri8a.pfb>
-Output written on "CSCM10 - Report.pdf" (18 pages, 107001 bytes).
+Output written on "CSCM10 - Report.pdf" (21 pages, 114146 bytes).
 PDF statistics:
- 226 PDF objects out of 1000 (max. 8388607)
- 198 compressed objects within 2 object streams
- 44 named destinations out of 1000 (max. 500000)
+ 283 PDF objects out of 1000 (max. 8388607)
+ 251 compressed objects within 3 object streams
+ 57 named destinations out of 1000 (max. 500000)
  114 words of extra memory for PDF output out of 10000 (max. 10000000)
 
