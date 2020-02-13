@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.20 (TeX Live 2019) (preloaded format=pdflatex 2019.12.5)  13 FEB 2020 21:33
+This is pdfTeX, Version 3.14159265-2.6-1.40.20 (TeX Live 2019) (preloaded format=pdflatex 2019.10.22)  13 FEB 2020 22:18
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -2132,10 +2132,15 @@ although it is yet undefined on input line 11.
  [1
 
 ]
+Package acronym Info: Label `acro:AI' newly defined as it shall be overridden
+although it is yet undefined on input line 18.
 LaTeX Font Info:    Font shape `T1/ptm/bx/n' in size <12> not available
 (Font)              Font shape `T1/ptm/b/n' tried instead on input line 22.
 )
 (./chapter/report_background.tex [2]
+Package acronym Info: Label `acro:GRN' newly defined as it shall be overridden
+although it is yet undefined on input line 13.
+
 Underfull \vbox (badness 2818) has occurred while \output is active []
 
  [3
@@ -2145,11 +2150,7 @@ Underfull \vbox (badness 2818) has occurred while \output is active []
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
  [5]
-[6]
-Underfull \vbox (badness 10000) has occurred while \output is active []
-
- [7])
-(./chapter/report_summary.tex [8]
+[6] [7]) (./chapter/report_summary.tex [8]
 Underfull \vbox (badness 1005) has occurred while \output is active []
 
  [9
@@ -2209,10 +2210,10 @@ Package rerunfilecheck Info: File `"CSCM10 - Report".out' has not changed.
 Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 91.
  ) 
 Here is how much of TeX's memory you used:
- 40024 strings out of 492616
- 711913 string characters out of 6129481
- 830030 words of memory out of 5000000
- 43029 multiletter control sequences out of 15000+600000
+ 40034 strings out of 492616
+ 711992 string characters out of 6129480
+ 831246 words of memory out of 5000000
+ 43039 multiletter control sequences out of 15000+600000
  573177 words of font info for 75 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
  63i,11n,92p,2297b,547s stack positions out of 5000i,500n,10000p,200000b,80000s
@@ -2220,7 +2221,7 @@ Here is how much of TeX's memory you used:
 exlive/2019/texmf-dist/fonts/type1/urw/times/utmb8a.pfb></usr/local/texlive/201
 9/texmf-dist/fonts/type1/urw/times/utmr8a.pfb></usr/local/texlive/2019/texmf-di
 st/fonts/type1/urw/times/utmri8a.pfb>
-Output written on "CSCM10 - Report.pdf" (21 pages, 110190 bytes).
+Output written on "CSCM10 - Report.pdf" (21 pages, 111884 bytes).
 PDF statistics:
  288 PDF objects out of 1000 (max. 8388607)
  257 compressed objects within 3 object streams
