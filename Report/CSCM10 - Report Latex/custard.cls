@@ -215,7 +215,7 @@
     \dominitoc
   \fi
 
-  \cleardoublepage
+  \clearpage
 } %% end maketitle
 
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
@@ -269,7 +269,7 @@
       Date & \rowdots
     \end{tabular}
 
-    \cleardoublepage
+    \clearpage
   \fi
 } %% end declaration
 
@@ -291,7 +291,7 @@
   %% following line of code.
   %% \mtcaddchapter
 }
-{\cleardoublepage}
+{\clearpage}
 
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 %% Configure Acknowledgements
@@ -303,7 +303,7 @@
 
 \newenvironment{Acknowledgements}
 {\chapter*{Acknowledgements\markboth{Acknowledgements}{Acknowledgements}}}
-{\cleardoublepage}
+{\clearpage}
 
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 %% Configure Table of Contents

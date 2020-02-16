@@ -8,5 +8,5 @@
 \contentsline {section}{\numberline {2.2}The Science of Gamification}{4}{section.2.2}% 
 \contentsline {section}{\numberline {2.3}Gamification in Science}{6}{section.2.3}% 
 \contentsline {section}{\numberline {2.4}Gamification in Education}{7}{section.2.4}% 
-\contentsline {chapter}{\chapternumberline {3}Conclusion}{9}{chapter.3}% 
-\contentsline {chapter}{Bibliography}{11}{chapter*.3}% 
+\contentsline {chapter}{\chapternumberline {3}Conclusion}{11}{chapter.3}% 
+\contentsline {chapter}{Bibliography}{13}{chapter*.4}% 

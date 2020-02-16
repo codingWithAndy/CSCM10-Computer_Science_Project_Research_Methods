@@ -65,12 +65,6 @@ J.~McGonigal. (2010) Gaming can make a better world. [Online]. Available:
   \url{http://chi2011.org/communities/games/index.html}
 \BIBentrySTDinterwordspacing
 
-\bibitem{gamresearch}
-\BIBentryALTinterwordspacing
-{Gamification Research Network}. (2020). [Online]. Available:
-  \url{http://gamification-research.org/about/}
-\BIBentrySTDinterwordspacing
-
 \bibitem{pokegwr}
 \BIBentryALTinterwordspacing
 R.~Swatman. (2016) Pokémon go catches five new world records. [Online].
@@ -142,10 +136,35 @@ M.~Baaden, O.~Delalande, N.~Ferey, S.~Pasquali, J.~Waldisp{\"u}hl, and A.~Taly,
   structural biology.''\hskip 1em plus 0.5em minus 0.4em\relax Public Library
   of Science, 2018.
 
+\bibitem{follett2015analysis}
+R.~Follett and V.~Strezov, ``An analysis of citizen science based research:
+  usage and publication patterns,'' \emph{PloS one}, vol.~10, no.~11, p.
+  e0143687, 2015.
+
+\bibitem{mazzanti2017can}
+L.~Mazzanti, S.~Doutreligne, C.~Gageat, P.~Derreumaux, A.~Taly, M.~Baaden, and
+  S.~Pasquali, ``What can human-guided simulations bring to rna folding?''
+  \emph{Biophysical journal}, vol. 113, no.~2, pp. 302--312, 2017.
+
+\bibitem{seriousmeth}
+\BIBentryALTinterwordspacing
+T.~Bates, ``Serious games and gamification,'' 2019, [online; accessed February
+  2020]. [Online]. Available:
+  \url{https://www.tonybates.ca/2019/09/07/serious-games-and-gamification/}
+\BIBentrySTDinterwordspacing
+
 \bibitem{gamelearning}
 \BIBentryALTinterwordspacing
 {Wikipedia}. (2020) Gamification of learning. [Online]. Available:
   \url{https://en.wikipedia.org/wiki/Gamification_of_learning}
+\BIBentrySTDinterwordspacing
+
+\bibitem{edugamexample}
+\BIBentryALTinterwordspacing
+{2muchcoffee}, ``Using gamification in your startup: Examples of leading apps
+  and our experience,'' 2019, [online; accessed February 2020]. [Online].
+  Available:
+  \url{https://2muchcoffee.com/blog/using-gamification-in-your-startup/}
 \BIBentrySTDinterwordspacing
 
 \bibitem{5benefits}

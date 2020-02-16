@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.20 (TeX Live 2019) (preloaded format=pdflatex 2019.10.22)  13 FEB 2020 22:18
+This is pdfTeX, Version 3.14159265-2.6-1.40.20 (TeX Live 2019) (preloaded format=pdflatex 2019.10.22)  16 FEB 2020 18:18
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -2059,29 +2059,19 @@ Package pdftex.def Info: graphics/swansea.png  used on input line 38.
  <./graphics/swansea.png>]
 [2
 
+
+
 ]
 LaTeX Font Info:    Font shape `T1/ptm/bx/n' in size <24.88> not available
 (Font)              Font shape `T1/ptm/b/n' tried instead on input line 41.
+Package acronym Info: Label `acro:ML' newly defined as it shall be overridden
+although it is yet undefined on input line 47.
 pdfTeX warning (ext4): destination with the same identifier (name{page.i}) has 
 been already used, duplicate ignored
 <to be read again> 
                    \relax 
 l.48 	\end{abstract}
-                     [1
-
-
-]pdfTeX warning (ext4): destination with the same identifier (name{page.ii}) ha
-s been already used, duplicate ignored
-<to be read again> 
-                   \relax 
-l.48 	\end{abstract}
-                     [2
-
-] [3
-
-] [4
-
-] (./CSCM10 - Report.toc
+                     [1] (./CSCM10 - Report.toc
 LaTeX Font Info:    Font shape `T1/ptm/bx/n' in size <10.95> not available
 (Font)              Font shape `T1/ptm/b/n' tried instead on input line 2.
 LaTeX Font Info:    Try loading font information for OT1+ztmcm on input line 2.
@@ -2122,22 +2112,31 @@ LaTeX Font Info:    Font shape `OT1/ptm/bx/n' in size <6> not available
 LaTeX Font Info:    Try loading font information for U+stmry on input line 2.
 
 (/usr/local/texlive/2019/texmf-dist/tex/latex/stmaryrd/Ustmry.fd))
-(./acronyms.tex) [5] [6
+(./acronyms.tex)pdfTeX warning (ext4): destination with the same identifier (na
+me{page.ii}) has been already used, duplicate ignored
+<to be read again> 
+                   \relax 
+l.67 	\mainmatter
+                 % [2
 
 ] (./chapter/report_intro.tex
 LaTeX Font Info:    Font shape `T1/ptm/bx/n' in size <14.4> not available
 (Font)              Font shape `T1/ptm/b/n' tried instead on input line 7.
-Package acronym Info: Label `acro:ML' newly defined as it shall be overridden
-although it is yet undefined on input line 11.
- [1
-
-]
 Package acronym Info: Label `acro:AI' newly defined as it shall be overridden
 although it is yet undefined on input line 18.
+
+Underfull \vbox (badness 4647) has occurred while \output is active []
+
+ [1
+
+
+]
 LaTeX Font Info:    Font shape `T1/ptm/bx/n' in size <12> not available
 (Font)              Font shape `T1/ptm/b/n' tried instead on input line 22.
 )
 (./chapter/report_background.tex [2]
+Package acronym Info: Label `acro:CHI' newly defined as it shall be overridden
+although it is yet undefined on input line 13.
 Package acronym Info: Label `acro:GRN' newly defined as it shall be overridden
 although it is yet undefined on input line 13.
 
@@ -2150,13 +2149,27 @@ Underfull \vbox (badness 2818) has occurred while \output is active []
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
  [5]
-[6] [7]) (./chapter/report_summary.tex [8]
-Underfull \vbox (badness 1005) has occurred while \output is active []
+<Serious-game-design-methodology.png, id=147, 394.47375pt x 337.26pt>
+File: Serious-game-design-methodology.png Graphic file (type png)
+<use Serious-game-design-methodology.png>
+Package pdftex.def Info: Serious-game-design-methodology.png  used on input lin
+e 41.
+(pdftex.def)             Requested size: 199.68016pt x 170.71652pt.
 
- [9
+[6 <./Serious-game-design-methodology.png>] [7]
+<gamification2.png, id=181, 890.32625pt x 479.7925pt>
+File: gamification2.png Graphic file (type png)
+<use gamification2.png>
+Package pdftex.def Info: gamification2.png  used on input line 67.
+(pdftex.def)             Requested size: 263.9889pt x 142.26378pt.
+ [8 <./gamification2.png>])
+(./chapter/report_summary.tex [9] [10
 
-])
-(./CSCM10 - Report.bbl [10]
+]
+Underfull \vbox (badness 1960) has occurred while \output is active []
+
+ [11])
+(./CSCM10 - Report.bbl [12]
 bibitemlist
 
 Underfull \hbox (badness 1215) in paragraph at lines 26--30
@@ -2165,38 +2178,38 @@ sed by ar-
  []
 
 
-Underfull \hbox (badness 1881) in paragraph at lines 76--80
+Underfull \hbox (badness 1881) in paragraph at lines 70--74
 []\T1/ptm/m/n/10.95 R. Swat-man. (2016) Poké-mon go catches five new world
  []
 
-[11
 
-]
-Underfull \hbox (badness 10000) in paragraph at lines 88--92
+Underfull \hbox (badness 10000) in paragraph at lines 82--86
 \T1/ptm/m/n/10.95 web / 20120425121358 / http : /enterprise-[]gami^^\cation . c
 om / index . php / en / blog / 4-[]blog /
  []
 
+[13
 
-Underfull \hbox (badness 1107) in paragraph at lines 159--164
+] [14]
+Underfull \hbox (badness 1107) in paragraph at lines 178--183
 []\T1/ptm/m/n/10.95 ------. (2012) Us-ing gam-i-fi-ca-tion to aid in ado-les-ce
 nt de-vel-op-
  []
 
 
-Overfull \hbox (174.94147pt too wide) in paragraph at lines 159--164
+Overfull \hbox (174.94147pt too wide) in paragraph at lines 178--183
 \T1/ptm/m/n/10.95 using-[]gami^^\cation-[]to-[]aid-[]in-[]adolescent-[]developm
 ent-[]in-[]the-[]classroom-[]cognitive-[]and-[]physical-[]processes-[]can-[]enh
 ance-[]growth/$[] 
  []
 
-[12])
+)
 Package minitoc Info: I0009
 (minitoc)             Listing minitoc auxiliary files. 
 (minitoc)             Creating the "CSCM10 - Report".maf file.
 \openout4 = `"CSCM10 - Report.maf"'.
 
- [13]
+ [15]
 \tf@toc=\write7
 \openout7 = `"CSCM10 - Report.toc"'.
 
@@ -2206,25 +2219,25 @@ Package atveryend Info: Empty hook `AfterLastShipout' on input line 91.
 Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 91.
 Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 91.
 Package rerunfilecheck Info: File `"CSCM10 - Report".out' has not changed.
-(rerunfilecheck)             Checksum: DD2879725B8F5FA021534EF4086FA8DF;608.
+(rerunfilecheck)             Checksum: 3D8D752DC10816685A06AEDA73DEAE30;608.
 Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 91.
  ) 
 Here is how much of TeX's memory you used:
- 40034 strings out of 492616
- 711992 string characters out of 6129480
- 831246 words of memory out of 5000000
- 43039 multiletter control sequences out of 15000+600000
- 573177 words of font info for 75 fonts, out of 8000000 for 9000
+ 40063 strings out of 492616
+ 712573 string characters out of 6129480
+ 830749 words of memory out of 5000000
+ 43063 multiletter control sequences out of 15000+600000
+ 574255 words of font info for 76 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
- 63i,11n,92p,2297b,547s stack positions out of 5000i,500n,10000p,200000b,80000s
+ 63i,11n,92p,1934b,547s stack positions out of 5000i,500n,10000p,200000b,80000s
 {/usr/local/texlive/2019/texmf-dist/fonts/enc/dvips/base/8r.enc}</usr/local/t
 exlive/2019/texmf-dist/fonts/type1/urw/times/utmb8a.pfb></usr/local/texlive/201
 9/texmf-dist/fonts/type1/urw/times/utmr8a.pfb></usr/local/texlive/2019/texmf-di
 st/fonts/type1/urw/times/utmri8a.pfb>
-Output written on "CSCM10 - Report.pdf" (21 pages, 111884 bytes).
+Output written on "CSCM10 - Report.pdf" (19 pages, 293841 bytes).
 PDF statistics:
- 288 PDF objects out of 1000 (max. 8388607)
- 257 compressed objects within 3 object streams
- 67 named destinations out of 1000 (max. 500000)
- 98 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 296 PDF objects out of 1000 (max. 8388607)
+ 261 compressed objects within 3 object streams
+ 69 named destinations out of 1000 (max. 500000)
+ 108 words of extra memory for PDF output out of 10000 (max. 10000000)
 
