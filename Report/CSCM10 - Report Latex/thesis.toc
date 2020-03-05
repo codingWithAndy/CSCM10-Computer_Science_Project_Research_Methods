@@ -1,8 +1,8 @@
 \babel@toc {english}{}
-\contentsline {chapter}{List of Tables}{vii}{section*.3}% 
-\contentsline {xchapter}{}{vii}{section*.3}% 
-\contentsline {chapter}{List of Figures}{viii}{section*.4}% 
-\contentsline {xchapter}{}{viii}{section*.4}% 
+\contentsline {chapter}{List of Tables}{vi}{section*.3}% 
+\contentsline {xchapter}{}{vi}{section*.3}% 
+\contentsline {chapter}{List of Figures}{vii}{section*.4}% 
+\contentsline {xchapter}{}{vii}{section*.4}% 
 \contentsline {chapter}{\chapternumberline {1}Introduction}{1}{chapter.1}% 
 \contentsline {section}{\numberline {1.1}Motivations}{1}{section.1.1}% 
 \contentsline {subsection}{\numberline {1.1.1}Objective}{1}{subsection.1.1.1}% 

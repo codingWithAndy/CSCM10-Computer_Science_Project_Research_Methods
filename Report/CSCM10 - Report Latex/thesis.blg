@@ -8,49 +8,57 @@ Reallocated singl_function (elt_size=4) to 100 items from 50.
 Reallocated wiz_functions (elt_size=4) to 6000 items from 3000.
 Reallocated singl_function (elt_size=4) to 100 items from 50.
 Database file #1: citations.bib
+Warning--I didn't find a database entry for "sizeofinternet"
+Warning--I didn't find a database entry for "gwern"
+Warning--I didn't find a database entry for "mendeley"
+Warning--I didn't find a database entry for "overleafdocs"
+Warning--I didn't find a database entry for "texstackexchange"
+Warning--I didn't find a database entry for "texnique"
+Warning--I didn't find a database entry for "whittle15_dragons"
 -- IEEEtran.bst version 1.14 (2015/08/26) by Michael Shell.
 -- http://www.michaelshell.org/tex/ieeetran/bibtex/
 -- See the "IEEEtran_bst_HOWTO.pdf" manual for usage information.
 
 Done.
-You've used 8 entries,
+You've used 2 entries,
             4087 wiz_defined-function locations,
-            860 strings with 7926 characters,
-and the built_in function-call counts, 3360 in all, are:
-= -- 255
-> -- 40
+            842 strings with 7708 characters,
+and the built_in function-call counts, 1393 in all, are:
+= -- 103
+> -- 21
 < -- 9
-+ -- 22
-- -- 8
-* -- 117
-:= -- 601
-add.period$ -- 17
-call.type$ -- 8
-change.case$ -- 7
++ -- 12
+- -- 3
+* -- 76
+:= -- 227
+add.period$ -- 5
+call.type$ -- 2
+change.case$ -- 2
 chr.to.int$ -- 24
-cite$ -- 8
-duplicate$ -- 251
-empty$ -- 319
-format.name$ -- 8
-if$ -- 734
+cite$ -- 2
+duplicate$ -- 100
+empty$ -- 121
+format.name$ -- 4
+if$ -- 305
 int.to.chr$ -- 0
-int.to.str$ -- 8
-missing$ -- 59
-newline$ -- 59
-num.names$ -- 8
-pop$ -- 177
+int.to.str$ -- 2
+missing$ -- 16
+newline$ -- 29
+num.names$ -- 2
+pop$ -- 39
 preamble$ -- 1
 purify$ -- 0
 quote$ -- 2
-skip$ -- 260
+skip$ -- 100
 stack$ -- 0
-substring$ -- 57
-swap$ -- 168
+substring$ -- 58
+swap$ -- 71
 text.length$ -- 1
 text.prefix$ -- 0
 top$ -- 5
-type$ -- 8
+type$ -- 2
 warning$ -- 0
-while$ -- 12
-width$ -- 9
-write$ -- 98
+while$ -- 6
+width$ -- 3
+write$ -- 40
+(There were 7 warnings)

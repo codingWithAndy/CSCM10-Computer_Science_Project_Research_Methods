@@ -21,48 +21,14 @@
 \providecommand{\BIBdecl}{\relax}
 \BIBdecl
 
-\bibitem{sizeofinternet}
-\BIBentryALTinterwordspacing
-{Internet Live Stats}. (2020). [Online]. Available:
-  \url{https://www.internetlivestats.com}
-\BIBentrySTDinterwordspacing
-
-\bibitem{gwern}
-\BIBentryALTinterwordspacing
-G.~Branwen. (2020) Internet search tips. [Online]. Available:
-  \url{https://www.gwern.net/Search}
-\BIBentrySTDinterwordspacing
-
-\bibitem{mendeley}
-\BIBentryALTinterwordspacing
-{RELX Group}. (2019) Mendeley. [Online]. Available:
-  \url{https://www.mendeley.com}
-\BIBentrySTDinterwordspacing
+\bibitem{hsin2013practitioner}
+W.~Hsin-Yuan~Huang and D.~Soman, ``A practitioner’s guide to gamification of
+  education,'' \emph{Rotman School of Management, University of Toronto}, 2013.
 
 \bibitem{kaj86}
 J.~T. Kajiya, ``The rendering equation,'' in \emph{Proceedings of the 13th
   Annual Conference on Computer Graphics and Interactive Techniques}, ser.
   SIGGRAPH '86.\hskip 1em plus 0.5em minus 0.4em\relax New York, NY, USA: ACM,
   1986, pp. 143--150.
-
-\bibitem{overleafdocs}
-\BIBentryALTinterwordspacing
-{Overleaf}. (2020) Overleaf documentation. [Online]. Available:
-  \url{https://www.overleaf.com/learn}
-\BIBentrySTDinterwordspacing
-
-\bibitem{texstackexchange}
-\BIBentryALTinterwordspacing
-{Stack Overflow}. (2008) Tex stackexchange. [Online]. Available:
-  \url{https://tex.stackexchange.com}
-\BIBentrySTDinterwordspacing
-
-\bibitem{texnique}
-\BIBentryALTinterwordspacing
-A.~Ravikumar. (2019) Texnique. [Online]. Available: \url{https://texnique.xyz}
-\BIBentrySTDinterwordspacing
-
-\bibitem{whittle15_dragons}
-J.~Whittle. (2015) Path traced glass dragons.
 
 \end{thebibliography}
