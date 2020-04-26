@@ -1,19 +1,28 @@
 \begin{thebibliography}{10}
 
+\bibitem{agrawal1993mining}
+{\sc Agrawal, R., Imieli{\'n}ski, T., and Swami, A.}
+\newblock Mining association rules between sets of items in large databases.
+\newblock In {\em Proceedings of the 1993 ACM SIGMOD international conference
+  on Management of data\/} (1993), pp.~207--216.
+
 \bibitem{agrawal1994fast}
 {\sc Agrawal, R., Srikant, R., et~al.}
 \newblock Fast algorithms for mining association rules.
 \newblock In {\em Proc. 20th int. conf. very large data bases, VLDB\/} (1994),
   vol.~1215, pp.~487--499.
 
-\bibitem{sklearn_api}
-{\sc Buitinck, L., Louppe, G., Blondel, M., Pedregosa, F., Mueller, A., Grisel,
-  O., Niculae, V., Prettenhofer, P., Gramfort, A., Grobler, J., Layton, R.,
-  VanderPlas, J., Joly, A., Holt, B., and Varoquaux, G.}
-\newblock {API} design for machine learning software: experiences from the
-  scikit-learn project.
-\newblock In {\em ECML PKDD Workshop: Languages for Data Mining and Machine
-  Learning\/} (2013), pp.~108--122.
+\bibitem{brin1997dynamic}
+{\sc Brin, S., Motwani, R., Ullman, J.~D., and Tsur, S.}
+\newblock Dynamic itemset counting and implication rules for market basket
+  data.
+\newblock In {\em Proceedings of the 1997 ACM SIGMOD international conference
+  on Management of data\/} (1997), pp.~255--264.
+
+\bibitem{jingjingslides}
+{\sc Deng, J.}
+\newblock 04. frequent patterns, association rule, correlation.
+\newblock In {\em Swansea Univerity Lecture Slides\/} (2020).
 
 \bibitem{geron2019hands}
 {\sc G{\'e}ron, A.}
@@ -31,18 +40,11 @@
 \newblock Matplotlib: A 2d graphics environment.
 \newblock {\em Computing in science \& engineering 9}, 3 (2007), 90--95.
 
-\bibitem{jingjingslides}
-{\sc jingjingslides}.
-\newblock jingjingslides slides.
-\newblock In {\em Slide titles\/} (2020).
-
-\bibitem{scikit-learn}
-{\sc Pedregosa, F., Varoquaux, G., Gramfort, A., Michel, V., Thirion, B.,
-  Grisel, O., Blondel, M., Prettenhofer, P., Weiss, R., Dubourg, V.,
-  Vanderplas, J., Passos, A., Cournapeau, D., Brucher, M., Perrot, M., and
-  Duchesnay, E.}
-\newblock Scikit-learn: Machine learning in {P}ython.
-\newblock {\em Journal of Machine Learning Research 12\/} (2011), 2825--2830.
+\bibitem{mckinney-proc-scipy-2010}
+{\sc McKinney, W.}
+\newblock Data structures for statistical computing in python.
+\newblock In {\em Proceedings of the 9th Python in Science Conference\/}
+  (2010), S.~van~der Walt and J.~Millman, Eds., pp.~51 -- 56.
 
 \bibitem{Python}
 {\sc {Python Core Team}}.
