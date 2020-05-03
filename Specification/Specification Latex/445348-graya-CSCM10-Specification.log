@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.20 (TeX Live 2019) (preloaded format=pdflatex 2019.12.5)  26 APR 2020 20:31
+This is pdfTeX, Version 3.14159265-2.6-1.40.20 (TeX Live 2019) (preloaded format=pdflatex 2019.12.5)  3 MAY 2020 19:57
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -95,6 +95,9 @@ Package: array 2018/12/30 v2.4k Tabular extension package (FMi)
 \backup@length=\skip46
 \ar@cellbox=\box28
 )
+(/usr/local/texlive/2019/texmf-dist/tex/latex/graphics/lscape.sty
+Package: lscape 2000/10/22 v3.01 Landscape Pages (DPC)
+)
 (/usr/local/texlive/2019/texmf-dist/tex/latex/tocbibind/tocbibind.sty
 Package: tocbibind 2010/10/13 v1.5k extra ToC listings
 Package tocbibind Info: The document has section divisions on input line 50.
@@ -158,18 +161,18 @@ Package: titlesec 2016/03/21 v2.10.2 Sectioning titles
 (./445348-graya-CSCM10-Specification.aux)
 \openout1 = `445348-graya-CSCM10-Specification.aux'.
 
-LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 28.
-LaTeX Font Info:    ... okay on input line 28.
-LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 28.
-LaTeX Font Info:    ... okay on input line 28.
-LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 28.
-LaTeX Font Info:    ... okay on input line 28.
-LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 28.
-LaTeX Font Info:    ... okay on input line 28.
-LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 28.
-LaTeX Font Info:    ... okay on input line 28.
-LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 28.
-LaTeX Font Info:    ... okay on input line 28.
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 27.
+LaTeX Font Info:    ... okay on input line 27.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 27.
+LaTeX Font Info:    ... okay on input line 27.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 27.
+LaTeX Font Info:    ... okay on input line 27.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 27.
+LaTeX Font Info:    ... okay on input line 27.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 27.
+LaTeX Font Info:    ... okay on input line 27.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 27.
+LaTeX Font Info:    ... okay on input line 27.
 
 (/usr/local/texlive/2019/texmf-dist/tex/context/base/mkii/supp-pdf.mkii
 [Loading MPS to PDF converter (version 2006.09.02).]
@@ -236,77 +239,72 @@ File: epstopdf-sys.cfg 2010/07/13 v1.3 Configuration of (r)epstopdf for TeX Liv
 e
 ))
 LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <12> on input line 44.
+(Font)              <12> on input line 43.
 LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <8> on input line 44.
+(Font)              <8> on input line 43.
 LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <6> on input line 44.
+(Font)              <6> on input line 43.
 <swansea.png, id=1, 416.2752pt x 284.7438pt>
 File: swansea.png Graphic file (type png)
 <use swansea.png>
-Package pdftex.def Info: swansea.png  used on input line 46.
+Package pdftex.def Info: swansea.png  used on input line 45.
 (pdftex.def)             Requested size: 256.0748pt x 175.1707pt.
 
 [1
 
 {/usr/local/texlive/2019/texmf-var/fonts/map/pdftex/updmap/pdftex.map} <./swans
 ea.png>] [1] [2]
-LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <9> on input line 135.
-LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <5> on input line 135.
 
-Underfull \hbox (badness 10000) in paragraph at lines 138--138
-[]|\OT1/cmr/m/n/9 CCN
- []
+LaTeX Warning: Citation `reference here' on page 3 undefined on input line 129.
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 138--138
-\OT1/cmr/m/n/9 Tain-ing
- []
+
+LaTeX Warning: Citation `kanbanmeaning' on page 3 undefined on input line 135.
 
 
-Underfull \hbox (badness 1430) in paragraph at lines 138--138
-[]|\OT1/cmr/m/n/9 2 Step Slid-ing
- []
+LaTeX Warning: Citation `anderson2010kanban' on page 3 undefined on input line 
+137.
 
 
-Underfull \hbox (badness 1430) in paragraph at lines 138--138
-[]|\OT1/cmr/m/n/9 5 Step Slid-ing
- []
+LaTeX Warning: Citation `anderson2010kanban' on page 3 undefined on input line 
+139.
 
 
-LaTeX Warning: Reference `confusion_matrix' on page 3 undefined on input line 1
-52.
+LaTeX Warning: Citation `anderson2010kanban' on page 3 undefined on input line 
+139.
 
-[3] (./445348-graya-CSCM10-Specification.bbl) [4]
-(./445348-graya-CSCM10-Specification.aux)
+[3] [4] [5
+
+] (./445348-graya-CSCM10-Specification.bbl
+
+LaTeX Warning: Empty `thebibliography' environment on input line 3.
+
+) [6
+
+] (./445348-graya-CSCM10-Specification.aux)
 
 LaTeX Warning: There were undefined references.
 
  ) 
 Here is how much of TeX's memory you used:
- 2856 strings out of 492616
- 40496 string characters out of 6129481
- 121078 words of memory out of 5000000
- 6718 multiletter control sequences out of 15000+600000
- 10075 words of font info for 35 fonts, out of 8000000 for 9000
+ 2841 strings out of 492616
+ 40339 string characters out of 6129481
+ 118190 words of memory out of 5000000
+ 6704 multiletter control sequences out of 15000+600000
+ 8809 words of font info for 31 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
- 41i,8n,45p,1336b,207s stack positions out of 5000i,500n,10000p,200000b,80000s
+ 41i,6n,45p,1252b,183s stack positions out of 5000i,500n,10000p,200000b,80000s
 </usr/local/texlive/2019/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx10.pfb
 ></usr/local/texlive/2019/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx12.pfb>
 </usr/local/texlive/2019/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx9.pfb></
-usr/local/texlive/2019/texmf-dist/fonts/type1/public/amsfonts/cm/cmcsc10.pfb></
 usr/local/texlive/2019/texmf-dist/fonts/type1/public/amsfonts/cm/cmr10.pfb></us
 r/local/texlive/2019/texmf-dist/fonts/type1/public/amsfonts/cm/cmr12.pfb></usr/
-local/texlive/2019/texmf-dist/fonts/type1/public/amsfonts/cm/cmr8.pfb></usr/loc
-al/texlive/2019/texmf-dist/fonts/type1/public/amsfonts/cm/cmr9.pfb></usr/local/
-texlive/2019/texmf-dist/fonts/type1/public/amsfonts/cm/cmti8.pfb>
-Output written on 445348-graya-CSCM10-Specification.pdf (5 pages, 176121 bytes)
+local/texlive/2019/texmf-dist/fonts/type1/public/amsfonts/cm/cmr9.pfb>
+Output written on 445348-graya-CSCM10-Specification.pdf (7 pages, 122388 bytes)
 .
 PDF statistics:
- 59 PDF objects out of 1000 (max. 8388607)
- 40 compressed objects within 1 object stream
+ 55 PDF objects out of 1000 (max. 8388607)
+ 37 compressed objects within 1 object stream
  0 named destinations out of 1000 (max. 500000)
  6 words of extra memory for PDF output out of 10000 (max. 10000000)
 
