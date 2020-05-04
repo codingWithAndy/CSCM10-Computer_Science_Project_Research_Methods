@@ -50,12 +50,14 @@
 \pagenumbering{arabic}
 
 \begin{abstract}
-	Abstract here 
+	As part of our Masters of Science accreditation, we must complete a research thesis. In has been decided upon to create an educational game centred around Machine Learning (ML), due to the authors desire to gain a deeper understanding of ML and their previous experiences as being a secondary school teacher. We have proposed a game that allows the player to interact with different key ML algorithms and models while providing mediums to help educate and teach the players the understanding of the ML and provide knowledge on how they operate. We will achieve this by creating learning research to accompany the game, as well as links to relevant scientific research to get a deeper understanding. While at the centre of it all, having a fun and engaging game, that uses ML to teach about ML. Through using Python, Pygame and industry-standard accepted libraries and packages, like Tensorflow and Sci-kit Learn. The game will provide key gameplay features that users would expect of games, which will be achieved by using fundamental gamification techniques, to create a fun and engaging game that allows the user to interact directly with the ML models. 
 \end{abstract}
 
 \section{Introduction}
 
 \small 
+As part of our Masters of Science accreditation, we must complete a research thesis. In has been decided upon to create an educational game centred around Machine Learning (ML), due to the authors desire to gain a deeper understanding of ML and their previous experiences as being a secondary school teacher. 
+
 
 \subsection{Overview of the Problem}
 
@@ -116,16 +118,20 @@ Explanation of model?
 Underlying function for levels?
 King of the Hill?
 Domination?
-\subsubsection{Human vs AI?}
-\subsubsection{Unlockables?}
-\textbf{Code Snippets}
-\textbf{Publication links}
+\subsubsection{Human vs AI}
+While the initial implementation is aiming for the main gameplay to be player versus player at first be its priority. However, depending on time requirements, there is a desire to have an option for single-player action and playing against the computer, or AI, although the initial implementation might be very basic in the form of the AI just making 'random guesses'. With potentially being developed into something this more a little more strategic, and is affected by the move the player has just taken.
+
+\subsubsection{Unlockables}
+During the game, when specific actions have happened. The game will reward the player with rewards. The rewards will come in a variety of forms, some in the more traditional gamification methods like badges. However, the main ones will come in the form of code snippets and publication documentation getting unlocked and presented to the player. 
+
+\textbf{Code Snippets}\\
+\textbf{Publication links}\\
 
 \section{Proposed Mock-up prototype images}
 
 
 \section{Proposed Implementation Approach}
-\subsubsection{Tools}
+\subsection{Tools}
 We plan to make the game using Python 3 \cite{reference here}. We plan to use this language due to the vast amount of packages and libraries available. Python has a vast amount of support within the Data Science and Machine Learning community, and it also has packages available to allow the create games and web applications. 
 
 Visual Studio Code (VS Code) will be the chief text editor for implementing the game. Due to the nature of text editor, it will allow us to use all the Python libraries as well as any of the iPython notebook files. iPython notebooks are the primary file type for Jupyter Notebooks whereas VS Code allows user to edit multiple programming languages, which include Python and Jupyter Notebooks, in one place. However, with it being a text editor, it does lack the more advanced features we would expect in an IDE, but these are features we do not need.  
@@ -138,18 +144,57 @@ David Anderson discovered that kanban boards get split into five components: Vis
 
 Kanban teams write all their project's work items onto cards, and these are usually one per card. The kanban board gets split into columns, with each column representing an activity which composes the workflow. All the cards change between the workflow until the activity is complete. The column workflow titles can be as simple as to do, in progress and completed. However, David suggests that there should be a work in progress (WIP) limit \cite{anderson2010kanban}. When a column has reached the limit, of three cards, all team members get expected to focus on the cards in progress. The WIP limits are critical for exposing bottlenecks in the workflow and maximizing flow. WIP limits give an early warning sign that too much work commissioned. Backlogs of ideas are where the ideas of the team and the customers get placed. The moment an idea gets picked up by a team member and work begins, this gets referred to as the commitment point \cite{anderson2010kanban}. When the product is finished and is ready for deployment, this stage gets referred to as the delivery point. The overall aim of the kanban is to take a card from the commitment point to delivery point as quick as possible.  
 
-\subsubsection{Python Libraries} %subsubsubsection
+\subsection{Python Libraries} %subsubsubsection
 The Python libraries that we will be using are Pygame for game development. [Add a brief description of it here]. This package will be the main one for creating the game's interface and game logic. 
 
 For the main implemented machine learning algorithms that are within the game, a package called Scikit-learn will get used. [Add a brief description of it here]. This package will allow us to implement the algorithms [list them here] using the Python language.
 
+\subsection{Development}
+\subsubsection{Deployment Format}
+The main application will be a desktop application.  Due to the potential size and scope of the application, the initial aim will be on creating a sleek and smooth learning game and tool, to get the understanding of machine learning across. However, due to the nature of the world at current, with more and more getting done online, a web application version of the application would be feasible. However, this can only be considered when the main application is completed to the expected level, with the desired user experience. Frameworks that would allow us to achieve this would be Python's web library called 'Django'.
+
+\subsubsection{Developement style}
+We will aim to create the app in a modular manner. By creating the application in a modular way, will allow us to create different aspects of the application at the same time. It is allowing us not to be limited to potential bottlenecks in development if particular modules are providing more issues than anticipated. We will then be intending for the Pygame user interface (UI) to be the factor that brings it all together, enabling all the different modules to be triggered based on the requirements of the game during the gameplay.
+
+\textbf{Module Content}\\
+Education content in one
+ML models in their own
+main game features in their own
+
+\subsection{Proposed Evaluation Method of the Project}
+\subsubsection{Gameplay Testing}
+
+\subsubsection{Unit Testing}
+
+\subsubsection{Systems Testing}
+
+\subsubsection{User Testing and Feedback Evaluation}
+
+
+
 \section{Proposed Project Management}
+Project management is crucial for any task that is about to get carried out, even more so the case for software development. As a famous Benjamin Franklin quote says "Failing to plan is planning to fail"  \cite{plan_to_fail}. With this in mind, we must decide on the right project planning method that compliments our initial software design. From the waterfall method to Rapid application development (RAD) or the more modern methods of agile development, there are many methods that we could choose. We will explain the different methods that we could use and what ones would be best for our solution and intended development method.
+
+\subsection{Proposed Life Cycle}
 
 
 \begin{landscape}
 \subsection{Gantt chart}
 	Chart here!!!!
 \end{landscape}
+
+
+\subsection{Risk management}
+Risk analysis and an overview table
+Generic and specific risks, including mitigation strategies and impact scores
+Again, descriptions of the specific risks would be beneficial
+
+\section{Summary}
+
+
+
+This project is probably more Waterfall than any project I've had before. Remember to compare to others and give a justified choice.
+
 %\medskip
 %\newpage
 %\begin{appendices}

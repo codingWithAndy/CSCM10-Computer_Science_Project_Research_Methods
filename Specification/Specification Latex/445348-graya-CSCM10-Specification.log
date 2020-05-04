@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.20 (TeX Live 2019) (preloaded format=pdflatex 2019.12.5)  3 MAY 2020 19:57
+This is pdfTeX, Version 3.14159265-2.6-1.40.20 (TeX Live 2019) (preloaded format=pdflatex 2019.10.22)  4 MAY 2020 14:01
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -254,32 +254,40 @@ Package pdftex.def Info: swansea.png  used on input line 45.
 
 {/usr/local/texlive/2019/texmf-var/fonts/map/pdftex/updmap/pdftex.map} <./swans
 ea.png>] [1] [2]
+Underfull \hbox (badness 10000) in paragraph at lines 127--129
 
-LaTeX Warning: Citation `reference here' on page 3 undefined on input line 129.
-
-
-
-LaTeX Warning: Citation `kanbanmeaning' on page 3 undefined on input line 135.
+ []
 
 
-LaTeX Warning: Citation `anderson2010kanban' on page 3 undefined on input line 
-137.
+LaTeX Warning: Citation `reference here' on page 3 undefined on input line 135.
 
 
-LaTeX Warning: Citation `anderson2010kanban' on page 3 undefined on input line 
-139.
+[3]
+
+LaTeX Warning: Citation `kanbanmeaning' on page 4 undefined on input line 141.
 
 
-LaTeX Warning: Citation `anderson2010kanban' on page 3 undefined on input line 
-139.
+LaTeX Warning: Citation `anderson2010kanban' on page 4 undefined on input line 
+143.
 
-[3] [4] [5
+
+LaTeX Warning: Citation `anderson2010kanban' on page 4 undefined on input line 
+145.
+
+
+LaTeX Warning: Citation `anderson2010kanban' on page 4 undefined on input line 
+145.
+
+
+LaTeX Warning: Citation `plan_to_fail' on page 4 undefined on input line 176.
+
+[4] [5] [6
 
 ] (./445348-graya-CSCM10-Specification.bbl
 
 LaTeX Warning: Empty `thebibliography' environment on input line 3.
 
-) [6
+) [7
 
 ] (./445348-graya-CSCM10-Specification.aux)
 
@@ -288,8 +296,8 @@ LaTeX Warning: There were undefined references.
  ) 
 Here is how much of TeX's memory you used:
  2841 strings out of 492616
- 40339 string characters out of 6129481
- 118190 words of memory out of 5000000
+ 40339 string characters out of 6129480
+ 120190 words of memory out of 5000000
  6704 multiletter control sequences out of 15000+600000
  8809 words of font info for 31 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
@@ -300,11 +308,11 @@ Here is how much of TeX's memory you used:
 usr/local/texlive/2019/texmf-dist/fonts/type1/public/amsfonts/cm/cmr10.pfb></us
 r/local/texlive/2019/texmf-dist/fonts/type1/public/amsfonts/cm/cmr12.pfb></usr/
 local/texlive/2019/texmf-dist/fonts/type1/public/amsfonts/cm/cmr9.pfb>
-Output written on 445348-graya-CSCM10-Specification.pdf (7 pages, 122388 bytes)
+Output written on 445348-graya-CSCM10-Specification.pdf (8 pages, 127806 bytes)
 .
 PDF statistics:
- 55 PDF objects out of 1000 (max. 8388607)
- 37 compressed objects within 1 object stream
+ 58 PDF objects out of 1000 (max. 8388607)
+ 39 compressed objects within 1 object stream
  0 named destinations out of 1000 (max. 500000)
  6 words of extra memory for PDF output out of 10000 (max. 10000000)
 

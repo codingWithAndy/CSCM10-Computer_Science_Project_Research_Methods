@@ -6,11 +6,12 @@ White space in argument---line 32 of file 445348-graya-CSCM10-Specification.aux
  :                     here}
 I'm skipping whatever remains of this command
 The style file: acm.bst
-I found no cite keys---while reading file 445348-graya-CSCM10-Specification.aux
 Database file #1: samples.bib
+Warning--I didn't find a database entry for "kanbanmeaning"
+Warning--I didn't find a database entry for "anderson2010kanban"
 You've used 0 entries,
             2253 wiz_defined-function locations,
-            790 strings with 9350 characters,
+            792 strings with 9381 characters,
 and the built_in function-call counts, 18 in all, are:
 = -- 0
 > -- 0
@@ -49,4 +50,4 @@ warning$ -- 0
 while$ -- 0
 width$ -- 0
 write$ -- 2
-(There were 2 error messages)
+(There was 1 error message)
