@@ -9,9 +9,10 @@ The style file: acm.bst
 Database file #1: samples.bib
 Warning--I didn't find a database entry for "kanbanmeaning"
 Warning--I didn't find a database entry for "anderson2010kanban"
+Warning--I didn't find a database entry for "plan_to_fail"
 You've used 0 entries,
             2253 wiz_defined-function locations,
-            792 strings with 9381 characters,
+            793 strings with 9393 characters,
 and the built_in function-call counts, 18 in all, are:
 = -- 0
 > -- 0
