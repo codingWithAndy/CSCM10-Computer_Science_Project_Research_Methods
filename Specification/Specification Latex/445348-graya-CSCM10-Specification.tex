@@ -53,6 +53,8 @@
 	As part of our Masters of Science accreditation, we must complete a research thesis. In has been decided upon to create an educational game centred around Machine Learning (ML), due to the authors desire to gain a deeper understanding of ML and their previous experiences as being a secondary school teacher. We have proposed a game that allows the player to interact with different key ML algorithms and models while providing mediums to help educate and teach the players the understanding of the ML and provide knowledge on how they operate. We will achieve this by creating learning research to accompany the game, as well as links to relevant scientific research to get a deeper understanding. While at the centre of it all, having a fun and engaging game, that uses ML to teach about ML. Through using Python, Pygame and industry-standard accepted libraries and packages, like Tensorflow and Sci-kit Learn. The game will provide key gameplay features that users would expect of games, which will be achieved by using fundamental gamification techniques, to create a fun and engaging game that allows the user to interact directly with the ML models. 
 \end{abstract}
 
+\clearpage
+
 \section{Introduction}
 
 \small 
@@ -60,38 +62,65 @@ As part of our Masters of Science accreditation, we must complete a research the
 
 
 \subsection{Overview of the Problem}
+Machine learning gets perceived as a black box, a form of computer wizardry, where unknown algorithms do some magical unknown thing. Some misconceptions people have about Artificial Intelligence (AI) and ML is that 'AI does not need humans' and that 'AI is dangerous' \cite{quora5misconcepts}. Other misconceptions about AI and ML is that they have both very new and based around a human's brain, but AI and ML is something that has been around for a long time, and it is nowhere near the same, even at a fundamental level. Another big misconception is that AI is smarter than humans and that the ML robots will come and destroy the humans wiping out humanity. However, while AI can be better at performing specific tasks, they are not genetically more intelligent than humans. AI will only do what it gets told to do, nothing more \cite{quora5misconcepts}.
+
+On the other hand, instead of fearing AI and ML, there is a lot of this that it is currently doing to help humankind and make things safer. For example, the RAC, one of the UK's largest motoring organisations, aims to try and detect low-speed car crashes. They do this by developing an onboard crash sensing system that uses advanced machine learning algorithms to detect low-speed collisions and distinguish these events from more common driving events, such as driving over speed bumps or potholes. Independent tests showed the RAC system to be 92\% accurate in detecting test crashes, allowing them to be able to enable rapid response to roadside incidents \cite{matlanintrotoml}.
 
 \subsection{Overview of Proposed Solution}
+The overall aim of the proposed solution is to create a fun, educating game about ML. The players will be, at the core of the solution, playing a game that interacts with different ML models. The player(s) will be manipulating the game board and data points to affect the decision boundary, or to figure out where the decision boundary or centre of the cluster is. The solution will get created by using  Pygame and will have many different algorithms in the background, doing the main game mechanics, through using libraries like SKLearn \cite{sklearn_api} and Tensorflow \cite{tensorflow2015-whitepaper}.
 
 \subsection{Aims and Objectives}
+The proposed solution aims to create a fully interactive game that users will find fun and engaging, while still providing a level of education to teach the players what the different algorithms are and how they work. From the experience of being a teacher, learning has the most impact when the learner gets able to fully interact with the learning subject and see it work first hand, rather than just being told about it. The aim by creating this educational game is to help inform people what ML is and what it does, aiming to demystify the myths and misconceptions around ML.
 
 \subsection{Structure of the Document}
 We will first look into background research. Explaining what machine learning with an introduction to what it is, with going into more detail about the different ML techniques. These include supervised vs unsupervised, classification vs segmentation, data-driven approaches, features and dimensionality. An introduction to the machine learning classifiers proceeds the techniques. The classifiers include logistic regression, decision trees, random forests, SVMs and neural networks. We will also look into the literature of gamification and educational games. We will be looking at their impact, and how they get used, what their purpose is how they are adopted and created. We will then explain our proposed methodology, along with our development intentions for the educational game. Including the proposed tools we plan to use and the project management techniques we intend to implement.
 
 \section{Background Research}
 \subsection{Intro to Machine Learning}
+ML is aiming to teach computers what to do in situations that come naturally to humans and animals, which is to learn from experience. The ML algorithms use computational methods to learn information directly from data, without relying on a predetermined equation as a model. The algorithms improve their performance as the number of samples available for learning increases \cite{matlanintrotoml}.
+
+ML algorithms are finding natural patterns in data, which generates insight. Therefore, allowing humans to make better decisions and predictions. Although some people are very unaware, they get used every day to make critical decisions in medical diagnosis, stock trading, energy load forecasting, and more \cite{matlanintrotoml}. Even media sites rely on ML to sift through millions of options to give personalised suggestions. For example, song or movie recommendations. Retailers use it to gain insight into their customers' purchasing behaviour \cite{matlanintrotoml}.
+
 \subsubsection{Supervised vs Unsupervised}
+Machine learning uses two types of techniques: supervised learning, which trains a model on known input and output data so that it can predict future outputs, and unsupervised learning, which finds hidden patterns or intrinsic structures in input data \cite{geron2019hands}. \\
+ \\
+\textbf{Supervised:} \\
+Supervised machine learning aims to build a model that makes predictions based on evidence in the presence of uncertainty. The supervised learning algorithm takes the insights it has gained, from a known set of input data and known responses to the data (output), also known as labels, and trains a model to generate reasonable predictions for the response to new data \cite{matlanintrotoml, geron2019hands}. 
+
+Supervised learning uses classification and regression techniques to develop predictive models. Classification is a technique that predicts discrete responses. The classification aims to classify the inputted data into different categories\cite{matlanintrotoml}. Some examples of this type of technique are deciding if an email is spam or not, or deciding if a patient has a benign or cancerous tumour. These types of applications include credit scoring, medical imaging and speech recognition.
+
+On the other hand, regression techniques try to predict continuous responses \cite{geron2019hands}. An excellent example of this is to check for changes in the temperature or checking the power demands fluctuations. This kind of applications would get used for trading and forecasting electricity load \cite{matlanintrotoml}. \\
+ \\
+\textbf{Unsupervised Learning:} \\
+Unsupervised learning aims to find hidden patterns or intrinsic structures in the data \cite{geron2019hands}. In the same regards as supervised learning, unsupervised learning aims to gain insights from the data. However, whereas supervised learning has the output labels for the provided dataset, unsupervised does not, it aims to explore the data to find patterns or groupings in the data \cite{matlanintrotoml}.
+
+Examples of applications for clustering include gene sequence analysis, market research, and object recognition \cite{matlanintrotoml}.
+
 \subsubsection{Classification vs Segmentation}
+As previously mentioned, the classification technique will have predefined classes with the supervised learning getting used \cite{poole2010artificial}. Whereas, segmentation is about grouping similar things together using unsupervised learning, very similar to the clustering technique. For example, with using image processing as the comparison, segmentation is the process of extracting smaller segments out of one image with the intent of identifying different parts or objects within an image. The results od segmentation is that an image can give the analysis background and foreground separately, whereas classification is identifying if an image forms part of a class. For example, the algorithm will be classifying an image as a cartoon or photo \cite{quorasegclusdiff}. 
+
 \subsubsection{Data-Driven Approaches}
+Humans naturally have biases, which means that we can, when training a model, take short cuts to get decisions. This situation might seem reasonable. However, biases should not go challenged, one way to challenge biases it to have a data-driven approach (DDA). 
+
+The DDA required that 10 or 20 different algorithms are tested, with doubling down happening on the algorithms that show insights of being a better performer, speed and robustness. Instead of picking the most common parameters, a grid search of as many different parameters gets done. The output of this aims to remove objectivity and anecdotes \cite{DDA}.
 \subsubsection{Features and Dimensionality}
 
 \subsection{Introduction to Machine Learning Classifiers}
-\subsubsection{Logistic Regression}
-\subsubsection{Decision Trees}
-\subsubsection{Random Forests}
+\subsubsection{Linear and Logistic Regression}
+\textbf{Linear regression} is a model that aims to fit a line of best fit to the data provided. In order to do this, the algorithm chooses the best overall score from the 'Root Mean Square Error' (RMSE). Therefore, in order to train a linear regression model, we need to find the value of $0$ that minimises the RMSE \cite{geron2019hands}. \\
+\\
+\textbf{Logistic regression} is an algorithm that gets used for classification. Logistic regression gets used to estimate the probability that an instance belongs to a particular class. If the estimated probability is greater than 50%, the model predicts that the instance belongs to that class. If the model has predicted that the instance belongs to that class, also known as the positive class, it gets a '1' label \cite{handson book}. 
+
+\subsubsection{Decision Trees and Random Forests}
+\textbf{Decision Trees} (DTs) are a very versatile ML algorithm which can perform both classification and regression, ones that also has multioutput tasks \cite{geron2019hands}. DTs is a form of supervised learning that aims to determine an approximate sine curve with a set of if-then-else decision rules. The deeper the DTs is, the more complex the decision rules are. DTs builds classification or regression models in the form of a tree structure. It breaks down a data set into smaller and smaller subsets while at the same time an associated decision tree is incrementally developed. The final result is a tree with decision nodes and leaf nodes. A decision node has two or more branches. Leaf node represents a classification or decision. The topmost decision node in a tree which corresponds to the best predictor called the root node. Decision trees can handle both categorical and numerical data \cite{mediumtrees}. \\
+\\
+\textbf{Random Forests} fundamental idea behind them is to combine many decision trees into a single model. Individually, predictions made by decision trees (or humans) may not be accurate but combined, the predictions will be closer to the mark on average \cite{towardsdsrandforest}. Random forest is better than a single decision tree because we can think about it terms of having hundreds of humans make estimates for the max temperature problem.  Pooling everyone's predictions, we can incorporate much more knowledge than from anyone individual \cite{towardsdsrandforest}. 
+
 \subsubsection{SVMs}
+Support Vector Machine (SVM) is another powerful and versatile ML model. The model is capable of performing linear or nonlinear classification, regression and even outlier detection. SVM is one of the most popular ML models and are best suited for small to medium-sized datasets. SVM aims to separate the data categories by using a decision boundary, with the largest margin between them. The algorithm is known as the 'large margin classification' \cite{geron2019hands}.
+
 \subsubsection{Neural Networks}
-
-\subsection{Introduction to Gamification and Edu-games}
-\subsubsection{Impact}
-\subsubsection{Usage}
-\subsubsection{Purpose}
-\subsubsection{Adoption}
-\subsubsection{Creation}
-
-\subsection{Edu-games in Computer Science}
-\subsubsection{Basic Computer Science}
-\subsubsection{Machine Learning}
+Neural Networks (NN) or also known Artificial Neural Networks (ANN), are at the very core of Deep Learning (DL). An ANN is an ML model inspired by networks of biological neurons found in our brains. However, ANN has become very different from their biological cousins that they took inspiration. ANN is what powers Google's image classifications, Apple's Siri and YouTube's video recommendation, as well as learning to beat the worlds best player at the game called Go, named 'DeepMind's Alpha Go' \cite{geron2019hands}.
 
 
 \subsection{Summary explaining intent to develop the Edu-game for ML}
@@ -103,21 +132,33 @@ Our main aim is to create an educational game, that aims to teach the main conce
 
 \subsection{Overview of proposed Critical Features}
 \subsubsection{Gameplay}
+The intended gameplay will use a turn-based style playthrough. The result of this will be that a play, possibly at random between 1 and 2, will make a move, selecting their location to place their data point, then the second mover, then back to the first mover and so on until the players have made three selections each. 
 
-%subsubsubsection Turn-by-turn playthrough
-%subsubsubsection Scoring mechanism
+The scoring will get decided upon based on the game mode and the model that is getting used. For example, for the game mode 'Pin the Data Point on the Decision Boundry', the user who has placed their data point closest to the decision boundary will win three points, the second closet two points, and the third closest data point one point. All the six points, if played well by the player, can be won by the same player. A similar mechanic can get used for 'Where is the Cluster's Centre Point' game mode. In regards to the game mode 'Claim the Screen', the points will be award to the player whom managers to have the most amount of game screen once the decision boundary gets created after all data points have gotten inputted into the game.
 
-\subsubsection{Different players? Single vs Multiplayer?}
-\subsubsection{Different Classifiers?}
-\subsubsection{Educational Component}
-Explanation of scoring?
-Explanation of model?
+An educational aspect will get provided into the game through introduction videos to each model, explaining the model and how they work, what are the mechanics behind them. However, not into too much detail as the main focus will be the game itself but additional, more in-depth, videos and educational resources, like a web page explaining how the algorithm works in more detail. With additional content getting unlocked which will provide code snippets and links to academic papers that introduced these concepts.
+
+\subsubsection{Single vs Multiplayer}
+The game will be two players, human versus human. However, bonus rounds could get presented to the player, for example, completing a pop quiz on machine learning to gain extra points. Additional game features could include a 'Domination' style gameplay of equal teams of two vs two or three vs three players introduced. However, we do aim to incorporate a single-player game mode into the application that will be the same mechanic of the player vs player but with player vs AI.
+
+
 \subsection{Overview of proposed optional features}
-\subsubsection{Power-ups?}
-\subsubsection{Alternative game modes?}
-Underlying function for levels?
-King of the Hill?
-Domination?
+
+\subsubsection{Game Modes}
+There are three main game types of design at current. These are 'Claim the Screen', 'Pin the Point on the Decision Boundry', 'Where is the Cluster Centre?' and 'Domination'.\\
+ \\
+\textbf{Claim the Screen}
+\\How 'Claim the Screen' will work is that the players will make three data point entries. The algorithm will then place the decision boundary based on the data points entered by all the players. The player that has claimed the higher proportion of the screen, when the decision boundary gets drawn, wins the level. This game mode can get assigned to all of the models, except the clustering algorithms. To implement different difficulty settings within this game setting the game map can be prepopulated with data points, assigned to each player. However, the player association will not get revealed until the end. Once all moves had been made by the players. \\
+ \\
+\textbf{Pin the Point on the Decision Boundry}
+\\As a play of the old party game pin the tail on the donkey, this game mode will be requiring the player to place data points on the screen. The decision boundary of the model will then appear, and the data point with the lowest SME wins the round, in regards to linear regression for this example. The SME is the value giving to the data point to how far away they are to the decision boundary. \\
+ \\
+\textbf{Where is the Cluster Centre?}
+\\This game mode will get used for playing with the clustering algorithms like GMM and Kmeans. The playing area will get prepopulated, and the player will have to guess where the centre of the cluster will be. \\
+ \\
+\textbf{Domination}
+\\For the game mode 'Domination', the essential mechanics would be the same, but the winner will be decided based on how the team overall has done with the team with the best average score winning the round.
+
 \subsubsection{Human vs AI}
 While the initial implementation is aiming for the main gameplay to be player versus player at first be its priority. However, depending on time requirements, there is a desire to have an option for single-player action and playing against the computer, or AI, although the initial implementation might be very basic in the form of the AI just making 'random guesses'. With potentially being developed into something this more a little more strategic, and is affected by the move the player has just taken.
 
@@ -131,7 +172,14 @@ When the plays complete the level, as a reward example code will get presented, 
 The players will also get presented with links and future read articles to academic science papers and publications for further readings, to get a better fundamental of the algorithm and also where to go to get to the next step.
 
 \section{Proposed Mock-up prototype images}
+The following screens mockups depict some initial ideas of the game screen. It contains information for the locations of where the players have selected, along with a game map which the players can click in, placing their data points.
 
+\begin{center}
+	\item\includegraphics[width=12cm]{Web19201.png}
+	\item\includegraphics[width=12cm]{Web19202.png}
+	\item\includegraphics[width=12cm]{Web19203.png}
+	\item\includegraphics[width=12cm]{Web19204.png}
+\end{center}
 
 \section{Proposed Implementation Approach}
 \subsection{Tools}
@@ -157,8 +205,8 @@ For the main implemented machine learning algorithms that are within the game, a
 The main application will be a desktop application.  Due to the potential size and scope of the application, the initial aim will be on creating a sleek and smooth learning game and tool, to get the understanding of machine learning across. However, due to the nature of the world at current, with more and more getting done online, a web application version of the application would be feasible. However, this can only be considered when the main application is completed to the expected level, with the desired user experience. Frameworks that would allow us to achieve this would be Python's web library called 'Django'.
 
 \subsubsection{Developement style}
-We will aim to create the app in a modular manner. By creating the application in a modular way, will allow us to create different aspects of the application at the same time. It is allowing us not to be limited to potential bottlenecks in development if particular modules are providing more issues than anticipated. We will then be intending for the Pygame user interface (UI) to be the factor that brings it all together, enabling all the different modules to be triggered based on the requirements of the game during the gameplay.
-
+We will aim to create the app in a modular manner. By creating the application in a modular way, will allow us to create different aspects of the application at the same time. It is allowing us not to be limited to potential bottlenecks in development if particular modules are providing more issues than anticipated. We will then be intending for the Pygame user interface (UI) to be the factor that brings it all together, enabling all the different modules to be triggered based on the requirements of the game during the gameplay.\\
+ \\
 \textbf{Module Content}\\
 As we will be developing the application modular, we will aim to have a module that will handle the educational content. This module will include the videos and explanations of the algorithms.
 
@@ -167,15 +215,7 @@ Another modular section will for each machine learning model. Each model being i
 Then we aim to have another module that will focus on the interface and UI of the main game and any menu screens. We will aim to have the gamification aspects within an individual module as well.
 
 \subsection{Proposed Evaluation Method of the Project}
-\subsubsection{Gameplay Testing}
-
-\subsubsection{Unit Testing}
-
-\subsubsection{Systems Testing}
-
-\subsubsection{User Testing and Feedback Evaluation}
-
-
+In order to gain an understanding of how effective ou solution is, we will be carrying out several key testing strategies. These strategies include gameplay testing, unit testing, systems testing and finally, user test to gain insightful feedback from the target audience.
 
 \section{Proposed Project Management}
 Project management is crucial for any task that is about to get carried out, even more so the case for software development. As a famous Benjamin Franklin quote says "Failing to plan is planning to fail" \cite{plan_to_fail}. With this in mind, we must decide on the right project planning method that compliments our initial software design. From the waterfall method to Rapid application development (RAD) or the more modern methods of agile development, there are many methods that we could choose. We will explain the different methods that we could use and what ones would be best for our solution and intended development method.
@@ -194,8 +234,7 @@ Like all models, they have their advantages and disadvantages. Advantages that t
 The overall aim of RAD is to create software projects with higher quality and faster by gathering requirements through workshops or focus groups. Then prototyping the product and then using reiterative user testing of designs early. RAD is the best model to use when we need something created quickly and have a pool of users available to test prototypes. However, this approach can be costly\cite{cscm01slides}. 
 
 \subsubsection{Spiral Method}
-%Not edited version.
-The Spiral Model – first described by Barry Boehm in 1986 – is a software development methodology that aids in choosing the optimal process model for a given project. It combines aspects of the incremental build model, waterfall model and prototyping model, but is distinguished by a set of six invariant characteristics. The Spiral Model is concerned primarily with risk awareness and management. The risk-driven approach of the spiral model ensures your team is highly flexible in its approach, but also highly aware of and prepared for the challenges they can expect to face down the road. The spiral model shines when stakes are highest and major setbacks are not an option \cite{spiralmodel}.
+The Spiral Model is an SDLC methodology that aids in choosing the optimal process model. It combines aspects of the incremental build model, waterfall model and prototyping model, but is different by a set of six invariant characteristics \cite{spiralmodel}. The Spiral Model main focus is on risk awareness and management. The risk-driven approach of the spiral model ensures the team is highly flexible within its approach, but also highly aware of the challenges they can expect down the road. The spiral model shines when stakes are highest, and significant setbacks are not an option \cite{spiralmodel}.
 
 
 \subsubsection{Agile Development}
@@ -209,14 +248,16 @@ The project's requirements have features that lend themselves well to the waterf
 
 \begin{landscape}
 \subsection{Gantt chart}
-	Chart here!!!!
+	\begin{center}
+		\item\includegraphics[width=27cm]{ganttchart.png}
+	\end{center}
 \end{landscape}
 
 
 \subsection{Risk management}
-Risk analysis and an overview table
-Generic and specific risks, including mitigation strategies and impact scores
-Again, descriptions of the specific risks would be beneficial
+\begin{center}
+	\item\includegraphics[width=13cm]{riskman.png}
+\end{center}
 
 \section{Summary}
 
@@ -225,7 +266,7 @@ Again, descriptions of the specific risks would be beneficial
 This project is probably more Waterfall than any project I've had before. Remember to compare to others and give a justified choice.
 
 %\medskip
-%\newpage
+\newpage
 %\begin{appendices}
 %	\section{Total count for Country}
 %	\label{appendix:totalcountall}

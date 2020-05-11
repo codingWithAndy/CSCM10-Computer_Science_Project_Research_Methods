@@ -1,3 +1,72 @@
-\begin{thebibliography}{}
+\begin{thebibliography}{10}
+
+\bibitem{DDA}
+{\sc Brownlee, J.}
+\newblock A data-driven approach to choosing machine learning algorithms.
+\newblock Retrieved May 9, 2020 from:
+  https://machinelearningmastery.com/a-data-driven-approach-to-machine-learning/.
+
+\bibitem{sklearn_api}
+{\sc Buitinck, L., Louppe, G., Blondel, M., Pedregosa, F., Mueller, A., Grisel,
+  O., Niculae, V., Prettenhofer, P., Gramfort, A., Grobler, J., Layton, R.,
+  VanderPlas, J., Joly, A., Holt, B., and Varoquaux, G.}
+\newblock {API} design for machine learning software: experiences from the
+  scikit-learn project.
+\newblock In {\em ECML PKDD Workshop: Languages for Data Mining and Machine
+  Learning\/} (2013), pp.~108--122.
+
+\bibitem{geron2019hands}
+{\sc G{\'e}ron, A.}
+\newblock {\em Hands-On Machine Learning with Scikit-Learn, Keras, and
+  TensorFlow: Concepts, Tools, and Techniques to Build Intelligent Systems}.
+\newblock O'Reilly Media, 2019.
+
+\bibitem{towardsdsrandforest}
+{\sc Koehrsen, W.}
+\newblock Random forest simple explanation.
+\newblock Retrieved May 10, 2020 from:
+  https://medium.com/@williamkoehrsen/random-forest-simple-explanation-377895a60d2d.
+
+\bibitem{poole2010artificial}
+{\sc Poole, D.~L., and Mackworth, A.~K.}
+\newblock {\em Artificial Intelligence: foundations of computational agents}.
+\newblock Cambridge University Press, 2010.
+
+\bibitem{spiralmodel}
+{\sc Powell-Morse, A.}
+\newblock Spiral model: Software development for critical projects.
+\newblock Retrieved April 29, 2020 from:
+  https://airbrake.io/blog/sdlc/spiral-model.
+
+\bibitem{quorasegclusdiff}
+{\sc {Quora}}.
+\newblock What is the difference between segmentation and classification in
+  image processing?
+\newblock Retrieved May 8, 2020 from:
+  https://www.quora.com/What-is-the-difference-between-segmentation-and-classification-in-image-processing.
+
+\bibitem{plan_to_fail}
+{\sc Raje, N.}
+\newblock Failing to plan is planning to fail.
+\newblock Retrieved April 29, 2020 from:
+  https://www.batimes.com/articles/failing-to-plan-is-planning-to-fail.html.
+
+\bibitem{kanbanmeaning}
+{\sc REHKOPF, M.}
+\newblock What is a kanban board?
+\newblock Retrieved April 29, 2020 from:
+  https://www.atlassian.com/agile/kanban/boards.
+
+\bibitem{mediumtrees}
+{\sc Sehra, C.}
+\newblock Decision trees explained easily.
+\newblock Retrieved May 9, 2020 from:
+  https://medium.com/@chiragsehra42/decision-trees-explained-easily-28f23241248.
+
+\bibitem{SDLC}
+{\sc Swersky, D.}
+\newblock The sdlc: 7 phases, popular models, benefits & more [2019].
+\newblock Retrieved April 29, 2020 from:
+  https://raygun.com/blog/software-development-life-cycle/.
 
 \end{thebibliography}

@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.20 (TeX Live 2019) (preloaded format=pdflatex 2019.10.22)  8 MAY 2020 21:23
+This is pdfTeX, Version 3.14159265-2.6-1.40.20 (TeX Live 2019) (preloaded format=pdflatex 2019.10.22)  10 MAY 2020 19:58
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -253,106 +253,248 @@ Package pdftex.def Info: swansea.png  used on input line 45.
 [1
 
 {/usr/local/texlive/2019/texmf-var/fonts/map/pdftex/updmap/pdftex.map} <./swans
-ea.png>] [1] [2]
-Underfull \hbox (badness 10000) in paragraph at lines 125--132
+ea.png>] [1]
+
+LaTeX Warning: Citation `quora5misconcepts' on page 2 undefined on input line 6
+5.
+
+
+LaTeX Warning: Citation `quora5misconcepts' on page 2 undefined on input line 6
+5.
+
+
+LaTeX Warning: Citation `matlanintrotoml' on page 2 undefined on input line 67.
+
+
+
+LaTeX Warning: Citation `tensorflow2015-whitepaper' on page 2 undefined on inpu
+t line 70.
+
+
+LaTeX Warning: Citation `matlanintrotoml' on page 2 undefined on input line 80.
+
+
+[2
+
+]
+
+LaTeX Warning: Citation `matlanintrotoml' on page 3 undefined on input line 82.
+
+
+
+LaTeX Warning: Citation `matlanintrotoml' on page 3 undefined on input line 82.
+
+
+
+LaTeX Warning: Citation `matlanintrotoml' on page 3 undefined on input line 88.
+
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 85--89
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 125--132
+LaTeX Warning: Citation `matlanintrotoml' on page 3 undefined on input line 90.
+
+
+
+LaTeX Warning: Citation `matlanintrotoml' on page 3 undefined on input line 92.
+
+
+
+LaTeX Warning: Citation `matlanintrotoml' on page 3 undefined on input line 95.
+
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 92--96
 
  []
 
 
-LaTeX Warning: Citation `reference here' on page 3 undefined on input line 138.
+LaTeX Warning: Citation `matlanintrotoml' on page 3 undefined on input line 97.
 
 
 [3]
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <9> on input line 110.
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <5> on input line 110.
 
-LaTeX Warning: Citation `kanbanmeaning' on page 4 undefined on input line 144.
+Underfull \hbox (badness 10000) in paragraph at lines 110--113
 
-
-LaTeX Warning: Citation `anderson2010kanban' on page 4 undefined on input line 
-146.
-
-
-LaTeX Warning: Citation `anderson2010kanban' on page 4 undefined on input line 
-148.
+ []
 
 
-LaTeX Warning: Citation `anderson2010kanban' on page 4 undefined on input line 
-148.
+Underfull \hbox (badness 10000) in paragraph at lines 115--118
+
+ []
 
 [4]
+Underfull \hbox (badness 10000) in paragraph at lines 148--161
 
-LaTeX Warning: Citation `plan_to_fail' on page 5 undefined on input line 181.
-
-
-LaTeX Warning: Citation `SDLC' on page 5 undefined on input line 184.
+ []
 
 
-LaTeX Warning: Citation `SDLC' on page 5 undefined on input line 184.
+Underfull \hbox (badness 10000) in paragraph at lines 148--161
+
+ []
 
 
-LaTeX Warning: Citation `SDLC' on page 5 undefined on input line 186.
+Underfull \hbox (badness 10000) in paragraph at lines 148--161
+
+ []
 
 
-LaTeX Warning: Citation `SDLC' on page 5 undefined on input line 186.
+Underfull \hbox (badness 10000) in paragraph at lines 148--161
 
-
-LaTeX Warning: Citation `SDLC' on page 5 undefined on input line 186.
+ []
 
 [5]
+Underfull \hbox (badness 10000) in paragraph at lines 166--173
 
-LaTeX Warning: Citation `cscm01slidesl5' on page 6 undefined on input line 191.
-
-
-
-LaTeX Warning: Citation `cscm01slidesl5' on page 6 undefined on input line 191.
+ []
 
 
+Underfull \hbox (badness 10000) in paragraph at lines 166--173
 
-LaTeX Warning: Citation `cscm01slides' on page 6 undefined on input line 194.
+ []
+
+<Web19201.png, id=30, 1927.2pt x 1084.05pt>
+File: Web19201.png Graphic file (type png)
+<use Web19201.png>
+Package pdftex.def Info: Web19201.png  used on input line 178.
+(pdftex.def)             Requested size: 341.43306pt x 192.0439pt.
+[6]
+<Web19202.png, id=35, 1927.2pt x 1084.05pt>
+File: Web19202.png Graphic file (type png)
+<use Web19202.png>
+Package pdftex.def Info: Web19202.png  used on input line 179.
+(pdftex.def)             Requested size: 341.43306pt x 192.0439pt.
+<Web19203.png, id=36, 1927.2pt x 1084.05pt>
+File: Web19203.png Graphic file (type png)
+<use Web19203.png>
+Package pdftex.def Info: Web19203.png  used on input line 180.
+(pdftex.def)             Requested size: 341.43306pt x 192.0439pt.
+<Web19204.png, id=37, 1927.2pt x 1084.05pt>
+File: Web19204.png Graphic file (type png)
+<use Web19204.png>
+Package pdftex.def Info: Web19204.png  used on input line 181.
+(pdftex.def)             Requested size: 341.43306pt x 192.0439pt.
+ [7 <./Web19201.png> <./Web19202.png> <./Web19203.png>]
+
+LaTeX Warning: Citation `reference here' on page 8 undefined on input line 186.
 
 
-LaTeX Warning: Citation `spiralmodel' on page 6 undefined on input line 198.
+
+LaTeX Warning: Citation `anderson2010kanban' on page 8 undefined on input line 
+194.
 
 
-LaTeX Warning: Citation `agilemanifesto' on page 6 undefined on input line 202.
+LaTeX Warning: Citation `anderson2010kanban' on page 8 undefined on input line 
+196.
 
 
-[6] [7
+LaTeX Warning: Citation `anderson2010kanban' on page 8 undefined on input line 
+196.
 
-] (./445348-graya-CSCM10-Specification.bbl
+[8 <./Web19204.png>]
+Underfull \hbox (badness 10000) in paragraph at lines 208--212
 
-LaTeX Warning: Empty `thebibliography' environment on input line 3.
+ []
 
-) [8
+[9]
 
-] (./445348-graya-CSCM10-Specification.aux)
+LaTeX Warning: Citation `cscm01slidesl5' on page 10 undefined on input line 231
+.
+
+
+LaTeX Warning: Citation `cscm01slidesl5' on page 10 undefined on input line 231
+.
+
+
+LaTeX Warning: Citation `cscm01slides' on page 10 undefined on input line 234.
+
+[10]
+
+LaTeX Warning: Citation `agilemanifesto' on page 11 undefined on input line 241
+.
+
+[11]
+<ganttchart.png, id=57, 1852.9225pt x 578.16pt>
+File: ganttchart.png Graphic file (type png)
+<use ganttchart.png>
+Package pdftex.def Info: ganttchart.png  used on input line 252.
+(pdftex.def)             Requested size: 768.2244pt x 239.71138pt.
+
+Overfull \hbox (45.5244pt too wide) in paragraph at lines 252--253
+ [] 
+ []
+
+[12
+
+ <./ganttchart.png>]
+<riskman.png, id=63, 516.93124pt x 742.775pt>
+File: riskman.png Graphic file (type png)
+<use riskman.png>
+Package pdftex.def Info: riskman.png  used on input line 259.
+(pdftex.def)             Requested size: 369.88582pt x 531.51077pt.
+
+Overfull \hbox (24.88582pt too wide) in paragraph at lines 259--260
+ [] 
+ []
+
+[13
+
+ <./riskman.png>] (./445348-graya-CSCM10-Specification.bbl
+Underfull \hbox (badness 5431) in paragraph at lines 25--29
+[]\OT1/cmr/m/sc/8 Koehrsen, W.  \OT1/cmr/m/n/8 Ran-dom for-est sim-ple ex-pla-n
+a-tion.  Re-trieved May 10,
+ []
+
+
+Underfull \hbox (badness 2503) in paragraph at lines 61--65
+[]\OT1/cmr/m/sc/8 Sehra, C.  \OT1/cmr/m/n/8 De-ci-sion trees ex-plained eas-ily
+.  Re-trieved May 9, 2020 from:
+ []
+
+! Misplaced alignment tab character &.
+l.68 ...sdlc: 7 phases, popular models, benefits &
+                                                   more [2019].
+I can't figure out why you would want to use a tab mark
+here. If you just want an ampersand, the remedy is
+simple: Just type `I\&' now. But if some right brace
+up above has ended a previous alignment prematurely,
+you're probably due for more error messages, and you
+might try typing `S' now just to see what is salvageable.
+
+) [14] (./445348-graya-CSCM10-Specification.aux)
 
 LaTeX Warning: There were undefined references.
 
  ) 
 Here is how much of TeX's memory you used:
- 2841 strings out of 492616
- 40339 string characters out of 6129480
- 120190 words of memory out of 5000000
- 6704 multiletter control sequences out of 15000+600000
- 8809 words of font info for 31 fonts, out of 8000000 for 9000
+ 2897 strings out of 492616
+ 41133 string characters out of 6129480
+ 120236 words of memory out of 5000000
+ 6750 multiletter control sequences out of 15000+600000
+ 10075 words of font info for 35 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
- 41i,6n,45p,1621b,183s stack positions out of 5000i,500n,10000p,200000b,80000s
+ 41i,6n,45p,1613b,231s stack positions out of 5000i,500n,10000p,200000b,80000s
 </usr/local/texlive/2019/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx10.pfb
 ></usr/local/texlive/2019/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx12.pfb>
 </usr/local/texlive/2019/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx9.pfb></
+usr/local/texlive/2019/texmf-dist/fonts/type1/public/amsfonts/cm/cmcsc10.pfb></
 usr/local/texlive/2019/texmf-dist/fonts/type1/public/amsfonts/cm/cmr10.pfb></us
 r/local/texlive/2019/texmf-dist/fonts/type1/public/amsfonts/cm/cmr12.pfb></usr/
-local/texlive/2019/texmf-dist/fonts/type1/public/amsfonts/cm/cmr9.pfb>
-Output written on 445348-graya-CSCM10-Specification.pdf (9 pages, 135482 bytes)
-.
+local/texlive/2019/texmf-dist/fonts/type1/public/amsfonts/cm/cmr8.pfb></usr/loc
+al/texlive/2019/texmf-dist/fonts/type1/public/amsfonts/cm/cmr9.pfb></usr/local/
+texlive/2019/texmf-dist/fonts/type1/public/amsfonts/cm/cmti8.pfb>
+Output written on 445348-graya-CSCM10-Specification.pdf (15 pages, 1560763 byte
+s).
 PDF statistics:
- 61 PDF objects out of 1000 (max. 8388607)
- 41 compressed objects within 1 object stream
+ 104 PDF objects out of 1000 (max. 8388607)
+ 63 compressed objects within 1 object stream
  0 named destinations out of 1000 (max. 500000)
- 6 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 36 words of extra memory for PDF output out of 10000 (max. 10000000)
 

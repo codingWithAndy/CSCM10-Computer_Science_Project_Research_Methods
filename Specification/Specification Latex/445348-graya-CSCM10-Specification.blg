@@ -1,54 +1,74 @@
 This is BibTeX, Version 0.99d (TeX Live 2019)
 Capacity: max_strings=100000, hash_size=100000, hash_prime=85009
 The top-level auxiliary file: 445348-graya-CSCM10-Specification.aux
-White space in argument---line 32 of file 445348-graya-CSCM10-Specification.aux
+White space in argument---line 18 of file 445348-graya-CSCM10-Specification.aux
+ : \citation{hands-on
+ :                    book}
+I'm skipping whatever remains of this command
+White space in argument---line 33 of file 445348-graya-CSCM10-Specification.aux
+ : \citation{handson
+ :                   book}
+I'm skipping whatever remains of this command
+White space in argument---line 57 of file 445348-graya-CSCM10-Specification.aux
  : \citation{reference
  :                     here}
 I'm skipping whatever remains of this command
 The style file: acm.bst
 Database file #1: samples.bib
-Warning--I didn't find a database entry for "kanbanmeaning"
+Warning--I didn't find a database entry for "quora5misconcepts"
+Warning--I didn't find a database entry for "matlanintrotoml"
+Warning--I didn't find a database entry for "tensorflow"
 Warning--I didn't find a database entry for "anderson2010kanban"
-Warning--I didn't find a database entry for "plan_to_fail"
-You've used 0 entries,
+Warning--I didn't find a database entry for "cscm01slidesl5"
+Warning--I didn't find a database entry for "cscm01slides"
+Warning--I didn't find a database entry for "agilemanifesto"
+Warning--empty booktitle in DDA
+Warning--empty booktitle in towardsdsrandforest
+Warning--empty booktitle in spiralmodel
+Warning--empty booktitle in quorasegclusdiff
+Warning--empty booktitle in plan_to_fail
+Warning--empty booktitle in kanbanmeaning
+Warning--empty booktitle in mediumtrees
+Warning--empty booktitle in SDLC
+You've used 11 entries,
             2253 wiz_defined-function locations,
-            793 strings with 9393 characters,
-and the built_in function-call counts, 18 in all, are:
-= -- 0
-> -- 0
+            846 strings with 11588 characters,
+and the built_in function-call counts, 3125 in all, are:
+= -- 265
+> -- 152
 < -- 0
-+ -- 0
-- -- 0
-* -- 2
-:= -- 7
-add.period$ -- 0
-call.type$ -- 0
-change.case$ -- 0
++ -- 65
+- -- 52
+* -- 185
+:= -- 526
+add.period$ -- 33
+call.type$ -- 11
+change.case$ -- 57
 chr.to.int$ -- 0
-cite$ -- 0
-duplicate$ -- 0
-empty$ -- 1
-format.name$ -- 0
-if$ -- 1
+cite$ -- 19
+duplicate$ -- 162
+empty$ -- 273
+format.name$ -- 52
+if$ -- 638
 int.to.chr$ -- 0
-int.to.str$ -- 0
-missing$ -- 0
-newline$ -- 3
-num.names$ -- 0
-pop$ -- 0
+int.to.str$ -- 11
+missing$ -- 13
+newline$ -- 58
+num.names$ -- 22
+pop$ -- 119
 preamble$ -- 1
-purify$ -- 0
+purify$ -- 48
 quote$ -- 0
-skip$ -- 1
+skip$ -- 62
 stack$ -- 0
-substring$ -- 0
-swap$ -- 0
+substring$ -- 89
+swap$ -- 22
 text.length$ -- 0
 text.prefix$ -- 0
 top$ -- 0
-type$ -- 0
-warning$ -- 0
-while$ -- 0
-width$ -- 0
-write$ -- 2
-(There was 1 error message)
+type$ -- 40
+warning$ -- 8
+while$ -- 25
+width$ -- 13
+write$ -- 104
+(There were 3 error messages)
